@@ -1,0 +1,624 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Electrical & Computer 
+Engineering 
+ 
+Graduate Student Handbook 
+  
+2025-2026 
+ 
+ 
+P.C. Rossin College of 
+Engineering and Applied Science 
+ 
+                          (August 2025) 
+
+1 | Page   
+Greetings from the Department Chair 
+ 
+Dear ECE Graduate Students, 
+Welcome to Lehigh University and to the Department of Electrical and Computer 
+Engineering! On behalf of our faculty and staff, we are delighted to have you join our 
+dynamic and diverse academic community. 
+You are also becoming part of a proud and historic legacy. Lehigh’s Electrical Engineering 
+program is one of the earliest in the United States, dating back to the very birth of electrical 
+engineering as a profession. Established in 1883 as a one-year program of advanced study, it 
+was expanded in 1886 into a comprehensive four-year curriculum. You are joining one of 
+the pioneering electrical engineering departments in the world—a department with a long-
+standing tradition of excellence and innovation. 
+Our department is proud of its strong record in research, innovation, and education. As you 
+begin your graduate journey, we are confident that your time here will be both intellectually 
+stimulating and personally rewarding. We encourage you to engage deeply with our 
+exceptional faculty, collaborate with your peers, and take full advantage of the opportunities 
+available to broaden and deepen your knowledge. 
+Pursuing a graduate degree is a significant and meaningful investment in your future. It not 
+only enhances your technical expertise, but also fosters critical thinking, creativity, and 
+leadership—skills essential for addressing complex challenges and advancing your career in 
+today’s fast-evolving technological landscape. More than just academic training, graduate 
+education instills a mindset of inquiry and innovation that prepares you to lead and 
+contribute meaningfully in your field. 
+We also believe that learning is a lifelong endeavor. In a world shaped by constant change, 
+the ability to adapt, grow, and stay curious is vital. We encourage you to view your time at 
+Lehigh not as a final chapter, but as the foundation of a lifelong commitment to personal and 
+professional growth. 
+To support your graduate experience, we’ve prepared the 2024–2025 ECE Department 
+Graduate Handbook. This resource complements the College of Engineering and Applied 
+Science Graduate Student Handbook, and both should be used together to understand 
+academic policies, procedures, and program requirements. We also recommend consulting 
+the University Catalog for additional guidance. 
+We are excited to support you on this journey and look forward to seeing all that you will 
+accomplish. 
+Welcome once again to Lehigh—and to the ECE family!  
+Warm regards, 
+2 | Page   
+ 
+ 
+Prof. Svetlana Tatic-Lucic 
+Professor and Chair 
+Department of Electrical and Computer Engineering 
+Lehigh University 
+ 
+
+3 | Page   
+Introduction 
+ 
+Contacts:  
+Graduate students may seek assistance from:  
+ 
+Department of Electrical and Computer Engineering 
+Department Chair - Prof. Svetlana Tatic-Lucic (svt2@lehigh.edu, 610-758-4023) 
+Director of Graduate Studies - Prof. Wenxin Liu (wel814@lehigh.edu, 610-758-6079) 
+Graduate Coordinator – Ms. Lucy Waldman (xlw224@lehigh.edu, 610-758-4072) 
+ 
+Department Coordinator -   Ms. Linda Hamel (lah422@lehigh.edu, 610-758-4070) 
+Systems Administrator -Mr. David Morrisette (dpm3@lehigh.edu, 610-758-3218) 
+Senior Lab Technician -  Mr. Theordore Bowen (tlb204@lehigh.edu, 610-758-4078)    
+ 
+Business Manager, Mr. Jeff Nichols (jfn298@lehigh.edu, 610-758-3863) 
+ 
+P.C. Rossin College Graduate Personnel 
+Assoc. Dean for Graduate Education - Prof. Mark Snyder (Masn00@lehigh.edu, 610-758-6834) 
+Manager of Graduate Program - Ms. Brianne Lisk (brc2@lehigh.edu, 610-758-6310) 
+ 
+Important Resources 
+ 
+Graduate Student Life —  https://grad.lehigh.edu/student-life  
+ 
+Office of International Students and Scholars (OISS) — https://global.lehigh.edu/oiss  
+ 
+Registration and Academic Services (RAS) — https://ras.lehigh.edu/current -students 
+ 
+RAS Academic Calendar — https://ras.lehigh.edu/content/current -students/academic-calendar 
+ 
+Bursar — https://financeadmin.lehigh.edu/bursar    
+ 
+Useful Abbreviations 
+ECE Electrical and Computer Engineering 
+MS Master of Science 
+MENG Master of Engineering 
+PhD Doctor of Philosophy 
+EE Electrical Engineering 
+CPE Computer Engineering 
+4 | Page   
+CSE Computer Science and Engineering 
+ESLP English as Second Language Program 
+OPI Oral Proficiency Interview 
+TOPSS Test of Pedagogical Speaking Skills 
+RCEAS P.C. Rossin College of Engineering & Applied Science 
+OISS Office of International Students and Scholars 
+ICAPE International Center for Academic and Professional English 
+ 
+ 
+ 
+5 | Page   
+Table of Contents  
+Part One:   PROCEDURES FOR NEW & CURRENT GRADUATE STUDENTS 
+1.1    Check-in and Starting dates 
+1.2 Required Orientations  
+1.3 Official Language – English 
+1.4 Health Insurance 
+1.5 Course Selection and Registration 
+1.6 Advisors 
+1.7 Seminars 
+1.8 Full Time Certification 
+1.9 Graduation 
+1.10 Department Representative to Graduate Student Senate   
+1.11 Graduate Student Service to the Department 
+    
+Part Two:   MS/MENG ACADEMIC GUIDELINES 
+2.1 Master’s Program Requirements 
+2.2 Master’s Options – Coursework only or Thesis   
+2.3 Master’s Graduation Requirements 
+  
+Part Three:  DOCTORAL ACADEMIC GUIDELINES 
+3.1 Time Requirement 
+3.2 Credit Requirement 
+3.3 TA Requirement 
+3.4 Core Courses Requirement  
+3.5 Performance Requirements 
+3.6 Road Map to Graduation 
+      Step 1: Qualifier Exam  
+Step 2:  Admission to Candidacy 
+Step 3:  General Exam 
+Step 4:  Dissertation and Defense 
+ 
+ 
+6 | Page   
+  
+   PART ONE: PROCECURES FOR NEW AND CURRENT 
+GRADUATE STUDENTS 
+ 
+1.1 Check in and Starting dates 
+Students are expected to be on campus at least one week prior to the start of classes in 
+time for new student orientations, testing and registration. International students must 
+check in online with OISS through their iHome portal when arriving on campus. The 
+OISS is located in Coxe Hall if you need to see them in person. Enrollment closes 
+after 10 days of the first days of the semester.   University Academic Calendar can be 
+found here.  
+ 
+1.2  Required Orientations 
+1. Graduate Students Orientation - for all new graduate students   
+2. OISS Orientation - for all new international students  
+3. ECE Department Orientation – for all new graduate students  
+4. TOPSS Testing - a test of English proficiency ( PhD students & Master’s students 
+working as teaching assistants) 
+5. Lab Safety Training (part of University Orientations) 
+ 
+Failure to attend the above sessions will result in not being able to enter lab areas nor will 
+you be permitted to serve as a departmental teaching assistant. Registration must be done 
+online through the Graduate Student Life site at: https://grad.lehigh.edu/ 
+ 
+1.3  English Speaking 
+Spoken English is the expected language in all labs and classrooms.  All students MUST 
+Speak English in the laboratory environment for safety reasons. Any student violating this 
+requirement will be given a warning and a notice will be sent to their advisor. A second 
+offense may result in expulsion from the laboratory and a meeting among the Safety 
+Officer, student, and laboratory supervisor will be held to correct the problem. 
+1.4 Health Insurance 
+University policy requires ALL resident graduate students to have health insurance. 
+For 2025-2026, the annual premium for student only coverage is $2,745. To help 
+eligible students afford individual coverage, the University will provide a subsidy of 
+$2,196 approximately towards the total annual insurance premium for students 
+receiving assistantships and fellowships through Lehigh's Payroll Office.  
+Health insurance premium rate increases slightly every year.  For most updated rate 
+and detailed health insurance plan, please check here.   
+ 
+1.5  Course Selection & Registration 
+All current students are asked to register for their semester courses at a specified date 
+during the previous semester. Failure to do so will result in a late fee of $100 assessed 
+by the Registrar. (January 2 for spring classes and August 1 for fall classes).  
+ 
+All students will have the first week of classes to add and drop courses online through 
+their registration portal as they wish without penalty. You may also add and drop the 
+second week of classes, but you must get approval from the instructor, get an override 
+7 | Page   
+applied, and will receive a pro-rated charge for that course from the Bursar’s Office 
+for the time that you attended.  
+ 
+Registration link is here.   
+ 
+1.6  Advisors 
+All students are required to consult with their  academic advisor before they register 
+for courses each semester. The advisor will review the courses and provide the student 
+with their r egistration PIN#. New r egistration PIN numbers are assigned each 
+semester. 
+ 
+New Masters graduate students will be assigned an advisor prior to the start of the 
+semester. Students may request to switch to a different academic advisor upon 
+approval.   
+ 
+If a Masters student decides to submit a thesis as part of their program, they will need to 
+identify a faculty member who is willing to supervise their research, and that faculty 
+member will become their academic advisor as well. The thesis advisor could become 
+the academic advisor from this point.  The student is responsible to contact both 
+advisers and notify the department office regarding the change.   Please be advised that 
+our faculty have many commitments, and the availability of faculty for research 
+supervision is not guaranteed. 
+ 
+1.7 Seminars 
+Please note that all full time graduate students in the department are expected to 
+attend department seminars. Seminar announcements are sent to your Lehigh e-
+mail accounts. Seminars are generally scheduled at 4:30 pm.  
+Full time students are expected to attend at least 75% of all the department seminars 
+offered in a semester. Attendance will be taken.     
+1.8 Full-Time Certification 
+All International graduate students must maintain full-time status while attending 
+Lehigh. Full-time students must be registered for 9 credits (3 courses) each semester or 
+satisfy the requirements to be certified full-time. All PhD students that are in Candidacy 
+and taking one credit, need to be certified Full Time. If you need to be certified full-time, 
+please complete the Full-Time Certification Form through DocuSign. Domestic s tudents 
+who need to maintain full-time status for insurance purposes, etc. must also be registered 
+for 9 credits per semester or be full-time certified.  All RAs and TAs must be full-time 
+students as stated in your offer letter. Failure to do so will make you ineligible for any 
+assistantships. 
+ 
+During the summer semesters, students do not need to take courses unless summer is the 
+beginning semester, in which case, the students have to register for 6 credits of courses to 
+be considered as full-time.   
+ 
+1.9 Graduation 
+When a student is ready to graduate, you will need to complete an Application for Degree 
+8 | Page   
+form at the beginning of the semester. These forms are available online through the 
+student portal. To access the form, log on to the Portal, click the Banner Icon, and click 
+the Student Services tab. Applications must be submitted by the deadlines listed on the  
+RAS Academic Calendar. Once this form is complete, please notify the Graduate 
+Coordinator of your plan. 
+ 
+Master’s students also need to complete the Master’s Program Form through DocuSign to 
+have all the courses checked and signed to qualify for graduation.   
+ 
+1.10 Department Representative to Graduate Student Senate  
+Every year, one graduate student and one alternate is appointed to serve as the ECE 
+Unit Representatives to the Lehigh University Graduate Student Senate.   The one-
+year appointment, beginning in the Fall semester of a given academic year, is 
+overseen by the ECE Graduate Coordinator and may be extended for one extra 
+term (for a total of two years).  Important information from the biweekly Lehigh 
+University Graduate Student Senate meetings should be relayed to the ECE 
+Graduate Coordinator, ECE Faculty and the ECE graduate students as deemed 
+necessary by the representatives.      
+ 
+1.11 Graduate Student Service to the Department 
+Throughout the year there are many events in which a graduate student can provide 
+service and assistance to the department. These events include but are not limited 
+to: Family Weekend, Candidates Day Tours, Admission Events, and ad hoc tours 
+of our facilities. 
+ 
+Each student is expected to participate in at least five (5) hours of department 
+service a year. These opportunities not only play an important part in the success of 
+these events, but also afford the student many opportunities to interact with 
+Faculty, Staff, other students, prospective new students, and external visitors. It 
+also plays an integral part in Professional Development, as it entails learning to 
+interrelate with the community at large, and can be used to enhance your resume. 
+ 
+PART TWO: MASTER’S DEGREE GUIDELINES 
+ 
+The ECE Department offers the following degrees:   
+a) Master of Science in Electrical Engineering (MS in EE) 
+b) Master of Engineering in Electrical Engineering (MENG in EE) 
+c) Master of Science in Computer Engineering (MS in CpE) 
+d) Master of Engineering in Computer Engineering (MENG in CpE) 
+e) Master of Science in Photonics (MS in Photonics) 
+2.1  Degree Requirements:   
+• Program Timeline Requirement: Normal full-time duration for an MS degree is 
+1.5 to 2 years; however, all work must be completed within a maximum of 6 
+years. 
+9 | Page   
+• Credit Requirement:   
+The University requirements specify that a Master’s degree must include: 
+• At least two full semesters of advanced work 
+• At least 30 credits 
+• At least 24 credits of 300- and 400-level courses 
+• At least 18 credits of 400-level courses 
+• At least 18 credits in the major field.   
+• At least 15 credits of 400-level courses in the major field  
+ 
+Major field courses for EE students are ECE courses; major field courses for CpE 
+students are ECE and CSE courses.   
+ 
+Master’s degrees may include: 
+• Courses at the 300-level and higher in the major field 
+• Up to six credits of thesis (ECE 490) or independent study (ECE 492)   
+• Courses at the 200-level and higher outside the major field (no more than two 
+courses) must get approval prior to registration.   
+ 
+400 Level Course Requirement:  When a course is cross listed at both 300 and 400 
+levels, the graduate student must enroll in the 400 level course.    
+ 
+• Core Courses Requirement:   
+ 
+MS/MENG Electrical Engineering (EE) Core Courses (select 3 courses from this list 
+below)  
+ 
+• ECE 401 Advanced Computer Architecture  
+• ECE 402 Advanced Electromagnetics 
+• ECE 420 Advanced Circuits and Systems 
+• ECE 441 Fundamentals of Wireless Communications  
+  —OR —  
+ECE 414 Statistical Decision Making and Machine Learning Theory 
+• ECE 451 Physics of Semiconductor Devices 
+ 
+MS/MENG Computer Engineering (CpE) Core Courses (select 3 from this list below)  
+ 
+1. ECE 319 Digital System Design  
+    —OR —  
+ECE 363 Computer-Aided Design of Digital Systems 
+2. ECE 401 Advanced Computer Architecture 
+ 
+3. CSE 303 Operating System Design  
+   —OR —  
+CSE 403 Advanced Operating Systems  
+   —OR —  
+CSE 340 Design and Analysis of Algorithms  
+10 | Page   
+  — OR—  
+CSE 440   Advanced Algorithms 
+ 
+Master of Science Degree in Photonics 
+The Master of Science Degree in Photonics is an interdisciplinary program designed to 
+provide students with a broad training in the various aspects of photonics, including 
+topics in electrical engineering, materials science, and physics. Admission to the 
+program requires a B.S. or M.S. in either the engineering or physical sciences. 
+ 
+Applications should be directed to one of the three sponsoring departments (Electrical 
+and Computer Engineering, Materials Science and Engineering, or Physics). Procedures 
+and admission criteria are the same as those followed by the home department.  
+ 
+Required Courses* (15 credits): 
+ 
+• PHY 355 (3 Credits) -  Nonlinear Optics 
+• ECE 448 (3 Credits) -   Fundamentals of Photonics (or PHY 421, Elec &    
+                                      Magnetism I) 
+• ECE 451 (3 Credits) -   Physics of Semiconductor Devices (or PHY 363,   
+                                      Physics of Solids) 
+• ECE 450 (3 Credits) -   Applied Quantum Mechanics for Engineers (or PHY  
+                                      423: Advanced Quantum Mechanics I) 
+• PHY 396 or MAT 416 (3 Credits) - Optical Properties of Solids / Optical    
+                                     Properties of Materials 
+ 
+Selected pre-requisites for the required courses may be waived by the program director for 
+students with equivalent background. 
+Elective courses (select a minimum of three courses): 
+• ECE 402 (3 Credits) -  Advanced Electromagnetics 
+• ECE 450 (3 Credits) -  Introduction to Photovoltaic Energy Systems 
+• MAT 302 (3 Credits)-  Electronic Properties of Materials 
+• MAT 334 (4 Credits)-  Electron Microscopy & Microanalysis 
+• MAT 427 (4 Credits)-  Advanced Scanning Electron Microscopy 
+• MAT 333 (3 Credits)-  Crystallography and Diffractions 
+• PHY 422 (3 Credits) -  Elec & Magnetism II 
+• PHY 424 (3 Credits) -  Quantum Mechanics II 
+• PHY 446 (3 Credits) -  Atomic and Molecular Physics 
+• PHY 318 (3 Credits) -  Computational Physics 
+• PHY 352 (3 Credits) -  Modern Optics (or PHY 482, Applied Optics) 
+ 
+In order to complete the MS degree requirements of the University, candidates must take 30 
+credits. Upon request, It is possible to satisfy this requirement via either a Master’s thesis or 
+a report, and by enrolling in a thesis or independent course for up to 6 credit hours. The 
+decision on a thesis or report should be made in consultation with a research advisor, and 
+Thesis or independent study courses should be at the 400 level.  
+ 
+11 | Page   
+A digital copy of the Photonics degree requirement can be found here: 
+https://wordpress.lehigh.edu/cpn/education/ 
+ 
+• Grades Requirement:  a student will be ineligible for a Master’s Degree if a 
+graduate student accumulates more than four grades below B-. In addition, no credit 
+is counted towards a degree for grades below C for 400-level courses and B- for 
+300-level courses 
+Core Course Grades Requirement:  For ECE Department Graduate Program 
+Master’s Degrees, students must earn grades “B-”and above to fulfill the core 
+courses requirement.   
+ 
+2.2 Master’s S Program Options: There are two options for a student enrolled in the MS 
+degree program: 1) Coursework-Only Option; 2) Thesis option.  
+ 
+Option 1: Coursework-Only Option 
+Should an MS student elect to pursue the coursework-only option during their MS/MENG in 
+EE degree program, they must complete the program’s credit, grade and core course 
+requirement as stipulated in Section 2.1 
+ 
+Option 2: Thesis Option 
+Should an MS student elect to complete a thesis project during their MS in EE/CpE degree 
+program, they must complete the program’s three core courses and identify a research 
+advisor, who would provide academic guidance in conducting the thesis project and provide 
+additional support for the student’s overall professional development. 
+ 
+MENG students do not have the option to do a thesis.  
+ 
+If a student chooses to do a thesis, he/she could take up to 6 credits of thesis hours in place 
+of 2 courses. Theses must be approved by the Department Chair and submitted to the 
+Registrar by the set deadline which can be found on the Academic Calendar. Thesis and 
+Dissertation Guidelines are here. 
+ 
+If an MS student has completed all course and credit requirements for the degree but is 
+finishing up their thesis project, they should register for 1 credit of ENGR 490 Thesis in 
+order to maintain their candidacy for the degree only once for the last semester. International 
+students also need to submit a Full Time Certification Form to be eligible as a legal full time 
+student for that semester.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 | Page   
+2.3 Graduation Guidelines for MS Programs: 
+In the last semester students need to submit the following paperwork to the Graduate 
+Coordinator in the ECE Department or online when specified: 
+Forms Due Date Special Notes 
+Application for Degree - online 
+in your Banner account 
+January Graduation: 10/1, 
+May Graduation 3/1, 
+August Graduation 7/1 
+ 
+Master's program form By the beginning of the last 
+term. This can be submitted as 
+early as 15 credits. It MUST be 
+processed before the last term 
+ends. 
+ 
+Submission of Thesis 
+Electronically: 
+http://www.etdadmin.com/lehigh 
+ 
+Original signature sheet signed 
+by ALL committee members 
+Must be done by designated 
+deadlines set by the Registrar’s 
+Office 
+ 
+Must be done by designated 
+deadlines set by the Registrar’s 
+Office 
+For MS students completing 
+Thesis only 
+Seminars All seminar requirements must 
+be completed as outlined in 
+section 1.7 of this handbook 
+Full-time students only 
+ 
+____________________________________________________________________ 
+PART THREE: DOCTORAL DEGREE 
+GUIDELINES 
+ 
+3.1 Time Requirement:   
+A PhD candidate is generally expected to devote three or more academic years to 
+graduate study. In no case is the degree awarded to one who has spent less than two full 
+academic years of graduate work. Graduate work done in residence at another institution 
+may be accepted in partial fulfillment of the time requirement.   All work submitted in a 
+program for the PhD degree must be completed within a 10-year period.  A candidate 
+entering a doctoral program with a master’s degree after an interruption of at least one 
+semester must complete all work toward the PHD within seven years.  
+ 
+ 3.2      Credit Requirement  
+Doctoral students whose are admitted with a Bachelor’s degree must register for a minimum 
+of 72 credits.  Students who earned a Master’s degree from Lehigh University must register 
+for a minimum of 42 credits towards the PhD degree.   Students who have earned a Master’s 
+degree at another institution must register for a minimum of 48 credits.  
+ 
+Please note a PhD candidate cannot take more than nine (9) credits of Independent Study 
+(ECE 492) courses in the first two years since the start of the program.   
+13 | Page   
+ 
+3.3      TA Requirement 
+All PhD candidates are required to serve as a half or full Teaching Assistant (TA) for a 
+minimum of one (1) semester in a technical course within the department during their PhD 
+studies. This includes any technical course taught by a faculty member in the ECE 
+Department. This is a departmental requirement for graduation. A student for whom English 
+is not their first language needs to pass the TOPSS (or OPI) test administered by ICAPE in 
+order to be a TA. 
+ 
+A score of 3.5 or higher on the TOPPS test is a graduation requirement of this department 
+that applies to students for whom English is their second language. Information on the 
+TOPPS test can be found on the TOPSS program website. If the student receives a score 
+below 3.5, then the student must continue with English as a Second Language (ESL) courses 
+and/or seek tutoring (to be determined by the International Center for Academic and 
+Professional English - ICAPE Office) until a passing score (≥ 3.5) is obtained. Failure to pass 
+the TOPSS test (score ≥ 3.5) within the two-year time limit may result in denial of degree, 
+loss of support and/or ineligibility for funding. The Department will cover the TOPPS testing 
+fee for the first try (must be taken by the end of the first semester on campus). Graduate 
+students with scores below 3.5 must personally pay for all re-examinations, ESL courses and 
+tutoring until a score of ≥3.5 is obtained. 
+ 
+OPI – Oral Proficiency Interview is a 30-minute interview that serves an alternative to 
+TOPSS for some students/faculty/staff.   The minimum score is 3.5.  
+           
+3.4  Core Course Requirement 
+The requirements are the same as those for Master’s students (see page 10) 
+ 
+3.5  Performance Requirement 
+Same as the Master’s program requirements, except for Grades lower than C- will not 
+count towards the degree  
+ 
+3.6  Road Map to Graduation  
+ 
+Step 1:  Qualifier Exam  
+All students in the Ph.D. program must take the appropriate Qualifier Exam within 
+two (2) years of entrance into the program, preferably within their first year.  If a 
+student is unable to fulfill this obligation, the Graduate Coordinator will need to 
+be notified. This exam requires demonstration of competency in selected areas.  
+ 
+EE Qualifier exams offered in six (6) different areas: 
+Bio Electronics and Bio Photonics 
+Communications, Signal Processing and Networking 
+Nano Electronics and MEMS 
+Optoelectronics and Photonics Systems 
+Power Systems and Power Electronics 
+Computer Architecture and VLSI Design 
+ 
+CompE Qualifier Exam: 
+Computer Engineering Ph.D. students may take their qualifier in areas more 
+14 | Page   
+specific to their research as long as they have three faculty members in either the 
+Electrical & Computer Engineering Department or Computer Science & 
+Engineering Department agree to form a committee to offer the specific exam. 
+ 
+Most areas have an assigned faculty member who will oversee the examination and 
+communicate with those students signed up for the exam. Exams will typically 
+consist of reading assigned research papers, writing a response paper, and taking an 
+oral exam with the examining committee. The Examining Committee will consist 
+of at least three faculty members. The topics can be related to one’s research thrust, 
+but not identical to the thesis topic. 
+ 
+Students will have two weeks to complete the written paper and an oral examination 
+will      follow one weeks after the paper is submitted. 
+ 
+Grading of the Qualifying Exam 
+The exam is on a pass/fail basis. Students who do not pass the exam the first time will 
+be able to take the exam again after a 5- month waiting period. This will be organized 
+with the help of the Graduate Coordinator and the Qualifier Committee on an 
+individual basis. If a student fails to retake the Qualifier Exam within a 12- month 
+period, that student will be removed from the PhD program, and will be forced to 
+reapply. If a student does not pass after the second attempt, they will be unable to 
+continue in the PhD  program. 
+ 
+Step 2:  Admission to Candidacy 
+After a Ph.D. student has passed his/her Qualifier Exam he/she may begin preparing to 
+apply for Candidacy.  The Doctoral Committee comprised of a minimum of 4 members. 
+Further guidelines on the formation and membership of this committee can be found in 
+the College Requirement). An information packet on the candidacy application process 
+is available from the Manager of Graduate Programs in RCEAS and must be completed 
+and submitted two (2) weeks prior to the start of the semester in August or January. A 
+prospective candidate must submit a written program proposal to their Doctoral 
+Committee that includes a discussion of proposed dissertation research. Once the 
+Committee approves the proposal, the candidate submits the proposal along with a 
+completed signature page and the Application to Candidacy packet to the Manager of 
+Graduate Programs in the College of Engineering. The Dean’s office will then notify the 
+student and their committee members in writing of the decision. 
+ 
+Once the student has completed their credit hour requirement for the PhD, they may 
+apply for Maintenance of Candidacy two times per year from that point on. This 
+means that the student is only required to be registered for one (1) credit of 
+Maintenance of Candidacy course (ENGR 499) from that point on until they complete 
+the program. 
+ 
+Step 3:  General Exam 
+The general examination for the doctorate is designed to test both the student’s 
+capacity and his or her proficiency in the field of study. The examination is not 
+necessarily confined to the content of courses that have been taken at Lehigh 
+15 | Page   
+University or elsewhere. The examination must occur no later than seven months 
+prior to the time when the candidate plans to receive the degree. The student’s 
+doctoral committee is in charge of the examination, which may be both written and 
+oral. 
+ 
+Should a candidate fail in the general examination, he or she may be permitted by 
+the doctoral committee to present him or herself for a second examination in the 
+next 5 to 7 months.   If the results of the second attempt are also unsatisfactory, no 
+further examination is set and the candidate is judged to have failed. 
+ 
+Step 4:   Dissertation and Defense 
+Ph.D. candidates are required to write a dissertation prepared under the direction of 
+their advisor (also typically the Chair of their Doctoral Committee).  Guidelines can be 
+found  in the College Handbook and all associated dates are listed on the Academic 
+Calendar. 
+ 
+A print out of guidelines and sample title and signature pages can be obtained from 
+the Manager of Graduate Programs (Ms. Brie Lisk, 314a Packard Laboratory) in 
+RCEAS. 
+ 
+Upon return the draft, the student should distribute copies of the draft to the members of 
+the doctoral committee for review and for suggestions for revision.  
+ 
+The candidate then schedules an oral dissertation defense before the doctoral committee, 
+additional faculty members and the general public.  The date of the examination must be 
+announced to the public at least one week in advance.  
+ 
+See Thesis and Dissertation guidelines at the bottom of this web page: 
+https://engineering.lehigh.edu/doctor-philosophy-degree-requirements 
+ 
+ 
+* Disclaimer: The ECE Graduate Committee reserves the right to change and explain the 
+above-mentioned rules and guidelines.     
+ 

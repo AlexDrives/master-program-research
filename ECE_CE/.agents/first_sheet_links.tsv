@@ -1,0 +1,114 @@
+row	university	program	project_url	course_url	highlight
+3	Princeton University	无硕士			
+4	Massachusetts Institute of Technology	无硕士			
+5	Harvard University	无硕士			
+6	Stanford University	MS in Electrical Engineering		https://ee.stanford.edu/admissions/ms/faq	专排NO.1
+7	Yale University	MS in Electrical & Computer Engineering			基本不录取硕士；师生比例低于4:1
+8	University of Chicago				
+9	Duke University	Master of Science in Electrical & Computer Engineering			1.3种模式：course only/project/thesis 2.有助教和实习机会3.可以自己设置自己的课程4.Average: $115,975
+10	Duke University	Master of Engineering (Meng) in Electrical & Computer Engineering			1.专业和商科领导力相结合，适合对行业领导力感兴趣的学生2.可以自己设置自己的课程安排
+11	Johns Hopkins University	Master of Science in Engineering (MSE) degree in Electrical and Computer Engineering			涵盖大多数热门方向：AI/DS/CE/control等并且个别分支与生物结合（JHU生物医学强大）科研机会比较多
+12	Johns Hopkins University	Robotics, Master of Science in Engineering			
+13	Northwestern University	Master of Science in Electrical Engineering		https://www.mccormick.northwestern.edu/electrical-computer/academics/graduate/admissions/admissions-faq.html	网申中在电气工程或计算机工程两个学部的研究兴趣小组中选择你的研究领域。该项目的许多学生通过与教员一起在研究实验室工作，将独立研究作为学位的一部分。为了支持研究工作，本系为硕士生提供最先进的研究设备和一流大学提供的大量资源。
+14	Northwestern University	Master of Science in Computer Engineering			与电气工程和计算科学都有很紧密的联系，目的是培养跨学科的计算机工程师；计算机工程的课程和研究包括计算机系统、计算机体系结构、移动系统、并行系统、并行处理、并行算法、硬件软件交互、VLSI设计、嵌入式系统、数值分析、系统仿真、机器人技术和大型系统。
+15	Northwestern University	Master of Science in Robotics			
+16	University of Pennsylvania	Master of Science in Engineering in Electrical Engineering		https://gradadm.seas.upenn.edu/faq/	最快1年毕业；电磁学、光子学、传感器和MEMS到VLSI和纳米技术都有涉及。
+17	University of Pennsylvania	M.S. in Robotics (ROBO)		https://www.grasp.upenn.edu/academics/masters-degree-program/robotics-masters-faqs/	三个系合办：计算机与信息科学/电子与系统工程/机械工程与应用力学jointly sponsored by the Departments of Computer and Information Science, Electrical and Systems Engineering, and Mechanical Engineering and Applied Mechanics.
+18	University of Pennsylvania	Master of Science in Engineering in Systems Engineering		https://gradadm.seas.upenn.edu/faq/	电气和系统工程交叉学科从信号处理、优化、仿真、控制和控制论到复杂的自适应系统、随机过程和决策科学。
+19	California Institute of Technology	Master of Science degree in electrical engineering		https://www.gradoffice.caltech.edu/admissions/faq-applicants	1年即可完成硕士学位；甚至有机会继续攻读博士；鼓励弱势群体申请；全美第四工程学院
+20	Cornell University	Ithaca Campus M.Eng. Program in Electrical and Computer Engineering		https://www.duffield.cornell.edu/meng/frequently-asked-questions-meng/	1年可修完/就业校友强大可以用专有的 Cornell Entrepreneur Network；毕业生平均工资101,302美金
+ECE M.Eng. Graduates Average Salary/就业或者进修80%
+21	Cornell University	只有PHD			
+22	Cornell University	Cornell Tech M.Eng. Program in Electrical and Computer Engineering		https://tech.cornell.edu/admissions/admissions-faqs/	
+23	Brown University	Master of Science (Sc.M.) degree in Electrical and Computer Engineering		https://engineering.brown.edu/graduate/admissions/frequently-asked-questions	三种硕士模式Thesis/Non-Thesis/Non-Thesis Professional Track；藤校；学院工程学科间没有明确界限，没有明确的“系”设置
+24	Dartmouth College	Master of Science (MS) in engineering sciences
+Electrical and Computer Engineering			藤校；工程学院没有“系”的设置，因为强调创新和全面的技术人才
+25	Dartmouth College	MEng: Electrical/ Computer Engineering (On-Campus)			
+26	Columbia University	Master of Science in Electrical Engineering		https://www.ee.columbia.edu/ee-ms-faq	1.夏天满足要求可以参加学校提供的校外实习并获得学分2.分支众多，除了EE研究方向都免额外申请开放给学生3.也可以选修部分工程学院的其他课程
+27	Columbia University	Master of Science in Computer Engineering			和计算机学院联合办学；In addition to the EE MS Program, we offer the Computer Engineering MS Program jointly with the Computer Science Department.
+28	University of California--Berkeley	Master of Engineering(M.Eng.) in EECS		https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/faq/	1.地理位置优越：加州，靠近硅谷高科技产业集中地，就业机会多 2. 综合排名#22, 工程学院排名#3 3. 课程不仅涵盖技术专业知识，还提供了有关工程领导力课程和面向团队的项目的课程。
+29	University of California--Berkeley	M.S.in Electrical Engineering(EECS)		https://eecs.berkeley.edu/academics/graduate/faq-3/	1.地理位置优越：加州，靠近硅谷高科技产业集中地，就业机会多 2. 综合排名#22, 工程学院排名#3 3. 课程不仅涵盖技术专业知识，还提供了有关工程领导力课程和面向团队的项目的课程。
+30	Rice University	Master of Electrical Engineering (M.E.E.)		https://eceweb.rice.edu/academics/graduate-programs/graduate-faqs	偏向就业的职业学位不需要论文即可毕业，该学位强调工程实践方面，结合管理和通信；毕业生就业 IBM, Facebook, Schlumberger, Oracle, Lockheed Martin, Intel, Dell, Intuit, HP, and Cyberonics.
+31	University of California--Los Angeles	M.S. in Electrical and Computer Engineering		https://www.ee.ucla.edu/grad-admission-faq/	三种硕士模式：
+M.S. Course-Based Plan/M.S. Project Option/M.S. Thesis Option；科研能力强大：Faculty Honors and Awards
+National Academy of Engineering Members: 18
+National Academy of Science Members: 3
+Society Fellows: 49
+NSF CAREER Awards: 18
+Okawa Foundation Awards: 16
+32	Vanderbilt University	Electrical Engineering(MS)		https://engineering.vanderbilt.edu/departments/electrical-computer-engineering/graduate-programs/	系里最大的是研究所是Software Integrated Systems and the Institute for Space and Defense Electronics；学生可选thesis/no-thesis；校友遍布National Instruments, Google, Microsoft, Apple, Boeing, Northrop Grumman, Schlumberger
+33	Carnegie Mellon University	M.S. in Electrical and Computer Engineering		https://www.ece.cmu.edu/admissions/graduate-faq.html	1. 综合排名#25, 工程学院排名#4 顶级理工科学校 2. 除了匹兹堡校区，卡耐基梅隆大学在美国硅谷
+34	Carnegie Mellon University	M.S. in Electrical and Computer Engineering			
+35	University of Michigan--Ann Arbor	Master of Science degree in  Electrical and Computer Engineering (ECE)		https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/grad-faqs/	1. 在全美最适宜居住的城市中排名第七 综合排名#25, 工程学院排名#5 QS 世界排名#21 3。作为美国的“学术重镇”，密歇根大学拥有全美最高的研究预算、浓厚的学术气氛 3. 40 millions 科研经费供学术研究
+36	University of Michigan--Ann Arbor	Master of Engineering (MEng) degree in Electrical and Computer Engineering		https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/grad-faqs/	
+37	University of Michigan--Ann Arbor	M.S. Computer Science and Engineering (CSE)		https://cse.engin.umich.edu/academics/graduate/admissions/faqs/	1. 在全美最适宜居住的城市中排名第七 综合排名#25, 工程学院排名#5 QS 世界排名#21 3。作为美国的“学术重镇”，密歇根大学拥有全美最高的研究预算、浓厚的学术气氛 3. 40 millions 科研经费供学术研究
+38	University of Notre Dame	Electrical Engineering MS		https://graduateschool.nd.edu/admissions/faq/	毕业生平均工资$50K to $145K -毕业生去去向 AT&T, Facebook, Ford Motor Company, Intel Corporation, Micron, National Instruments, Northrop Grumman, Qualcomm, Raytheon, Samsung, Texas Instruments, Baylor University, and many more./小班只招收20-22人/年；主要研究领域：Electronic Circuits and Systems (ECS)和Electronic and Photonic Materials and Devices (EPMD)
+39	Washington University in St. Louis	MS in Electrical Engineering		https://engineering.washu.edu/academics/graduate-admissions/FAQs.html	最近的毕业生继续深造，或在博世(Bosch)、波音(Boeing)、花旗集团(Citigroup)、英伟达(Nvidia)、华为技术有限公司(Huawei Technologies)和中国银行(Bank of China)等不同公司担任工程师、研究人员和软件工程师。
+40	Washington University in St. Louis	MS in Computer Engineering		https://engineering.washu.edu/academics/graduate-admissions/FAQs.html	设置在计算机科学与工程学院下面；可选project/thesis导向；适合喜欢计算机硬件的学生
+41	Washington University in St. Louis	Master of Control Engineering			
+42	Washington University in St. Louis	Master of Engineering in Robotics			
+43	Emory University	无硕士/博士			
+44	Georgetown University	无硕士/博士			
+45	University of North Carolina--Chapel Hill	无硕士/博士			
+46	University of Virginia	M.E. in Electrical Engineering		https://engineering.virginia.edu/graduate-study/future-grad-students/graduate-admission/graduate-admissions-frequently-asked-questions	1, 全美公立学校TOP3  综合排名#28, 工程学院排名#41 2. 学生申请时便可从学校的范围里确认之后研究方向包含控制理论&通信&射频和微波设备&器件制造&VLSI和微系统&电物理等丰富的方向和细分领域便于学生深耕
+47	University of Virginia	Computer Engineering, ME		https://engineering.virginia.edu/graduate-study/future-grad-students/graduate-admission/graduate-admissions-frequently-asked-questions	1, 全美公立学校TOP3  综合排名#28, 工程学院排名#41 2. 学生申请时便可从学校的范围里确认之后研究方向包含控制理论&通信&射频和微波设备&器件制造&VLSI和微系统&电物理等丰富的方向和细分领域便于学生深耕
+48	University of Southern California	Electrical and Computer Engineering下的所有硕士项目			
+49	University of Southern California	MS in Computer Engineering		https://viterbigradadmission.usc.edu/programs/masters/faq/	1.地理位置优越：加州，靠近硅谷高科技产业集中地，第一时间接触前沿科技技术，就业机会多2南加大是美国西海岸最古老的顶尖私立研究型大学，世界著名高等学府综合排名#22,工程学院排名#9 2. 课程紧凑，28个学分毕业，课程覆盖领域非常之丰富包含集成电路；天线网络；生物信号处理；计算机架构热门方向
+50	University of Southern California	MS in Electrical and Computer Engineering		https://viterbigradadmission.usc.edu/programs/masters/faq/	1.地理位置优越：加州，靠近硅谷高科技产业集中地，第一时间接触前沿科技技术，就业机会多2南加大是美国西海岸最古老的顶尖私立研究型大学，世界著名高等学府综合排名#22,工程学院排名#9 2. 课程紧凑，28个学分毕业，课程覆盖领域非常之丰富包含集成电路；天线网络；生物信号处理；计算机架构热门方向
+51	University of Southern California	MS in Electrical and Computer Engineering – Analog, Mixed-Signal, and Radio-frequency Integrated Circuits		https://viterbigradadmission.usc.edu/programs/masters/faq/	
+52	University of Southern California	MS in Electrical and Computer Engineering – Computer Architecture		https://viterbigradadmission.usc.edu/programs/masters/faq/	
+53	University of Southern California	MS in Electrical and Computer Engineering – Electric Power		https://viterbigradadmission.usc.edu/programs/masters/faq/	
+54	University of Southern California	MS in Electrical & Computer Engineering – Hardware Systems for Machine Learning		https://viterbigradadmission.usc.edu/programs/masters/faq/	
+55	University of Southern California	Master of Science in Electrical and Computer Engineering-Machine Learning and Data Science		https://viterbigradadmission.usc.edu/programs/masters/faq/	1.地理位置优越：加州，靠近硅谷高科技产业集中地，第一时间接触前沿科技技术，就业机会多2南加大是美国西海岸最古老的顶尖私立研究型大学，世界著名高等学府综合排名#22,工程学院排名#9 2. 课程紧凑，28个学分毕业，课程覆盖领域非常之丰富包含集成电路；天线网络；生物信号处理；计算机架构热门方向
+56	University of Southern California	MS in Electrical and Computer Engineering – VLSI Design		https://viterbigradadmission.usc.edu/programs/masters/faq/	
+57	University of Southern California	Dual Degree: MS Electrical Engineering/MS Engineering Management		https://viterbigradadmission.usc.edu/programs/masters/faq/	1.地理位置优越：加州，靠近硅谷高科技产业集中地，第一时间接触前沿科技技术，就业机会多2南加大是美国西海岸最古老的顶尖私立研究型大学，世界著名高等学府综合排名#22,工程学院排名#9 2. 课程紧凑，28个学分毕业，课程覆盖领域非常之丰富包含集成电路；天线网络；生物信号处理；计算机架构热门方向
+58	University of California--San Diego	M.S. Electrical and Computer Engineering		https://www.ece.ucsd.edu/graduate/admissions-faq	1.地处拉荷亚顶级海滩，全美最安全城市在圣地亚哥聚集了许多著名的无线通信公司。除高通外，德州仪器、三星、Intel、摩托罗拉、松下等全球主流的高科技企业均在此地设有专门的无线通信研发机构。圣地亚哥已成为加州第二个以高科技产能为主轴的城市，直逼旧金山湾区的硅谷 2. 综合排名#37, 工程学院排名#11
+59	University of California--San Diego	Master of Science Programs in Computer Science and Engineering		https://cse.ucsd.edu/graduate/graduate-admissions-faq	1.地处拉荷亚顶级海滩，全美最安全城市在圣地亚哥聚集了许多著名的无线通信公司。除高通外，德州仪器、三星、Intel、摩托罗拉、松下等全球主流的高科技企业均在此地设有专门的无线通信研发机构。圣地亚哥已成为加州第二个以高科技产能为主轴的城市，直逼旧金山湾区的硅谷 2. 综合排名#37, 工程学院排名#11
+60	University of Florida	M.S. in Electrical and Computer Engineering			1.  综合排名#34, 工程学院排名#45 2.UFL作为全美最大的研究型大学之一，每年为佛罗里达州经济贡献近60亿美元，并创造近七万五千个工作职位。佛罗里达大学共获得研究资金五亿八千三百万美元，其金额超过佛州所有其他大学的总和。3.
+61	University of Florida	M.S. in Electrical and Computer Engineering			
+62	University of Texas--Austin	Master of Science in Engineering (MSE) in Electrical and Computer Engineering		https://wikis.utexas.edu/display/ECEHandbook/Admissions+FAQ	1.专业可选分支多，一共有8个分支；申请时Applicants to our major are required to select a primary track of study, and can also select a second-choice track. Applicants are considered for admission to the primary track of study. In some rare cases, the admissions committee may decide to evaluate an applicant for his or her second-choice track. 2.大多数学生都有机会和教授一起参与最新的研究
+63	University of Texas--Austin	The Software Engineering Executive Master's Degree			
+64	Georgia Institute of Technology	M.S. in Electrical and Computer Engineering			1.  综合排名#29, 工程学院排名#7 2. 该校是美国最好的理工类大学之一，与麻省理工学院，加州理工学院并列为“三大理工学院”。Georgia Tech下属的航空系统设计实验室（Aerospace System Design Laboratory）承担了美国政府的机密的重大科研项目.
+65	Georgia Institute of Technology	Master’s in Robotics Program			
+66	New York University	M.S. in Electrical Engineering			1. 纽约大学的主校区以曼哈顿为中心 综合排名#29, 工程学院排名#40 2. Tandon学院的前身确实是一所独立学院，基础扎实 3.CE选课灵活度就大了很多，不选择做论文的话，6学分的必修课中还可选一门计算机系统结构，30学分中15分必须是ECE的，其余12分可以选CS，剩3分选作EE或CS方向的项目。
+67	New York University	M.S. in Computer Engineering			1. 纽约大学的主校区以曼哈顿为中心 综合排名#29, 工程学院排名#40 2. Tandon学院的前身确实是一所独立学院，基础扎实 3.CE选课灵活度就大了很多，不选择做论文的话，6学分的必修课中还可选一门计算机系统结构，30学分中15分必须是ECE的，其余12分可以选CS，剩3分选作EE或CS方向的项目。
+68	New York University	Mechatronics and Robotics, M.S.			
+69	University of California--Davis	Ms in Electrical and Computer Engineering		https://ece.ucdavis.edu/graduate/frequently-asked-questions	1.地理位置优越：加州，靠近硅谷高科技产业集中地，就业机会多 2. 综合排名#39, 工程学院排名#31
+70	University of California--Irvine	Electrical Engineering M.S.		https://grad.uci.edu/admissions/faq/	1.UCI的快速发展也依托于以高通（Qualcomm）为首的众多立足于圣地亚哥的高新技术企业，包括坐落于UCI校园中的Broadcom、Skyworks，以及欧文市中心的Conexant Systems、JAZZ Semiconductor，还有大名鼎鼎的游戏公司暴雪娱乐（Blizzard）等等。 2. 综合排名#36, 工程学院排名#36
+71	University of California--Irvine	Computer Engineering M.S.		https://grad.uci.edu/admissions/faq/	
+72	University of California--Irvine	MENG-Electrical Engineering & Computer Science:			
+73	Boston College	无硕士/博士			
+74	Tufts University	Master of Science in Electrical Engineering		https://asegrad.tufts.edu/applying/faqs	1.塔夫茨是有“小常春藤”之称的大学之一 综合排名#29, 工程学院排名#67 2. ECE学院的图像信号处理和纳米级工程研究方向非常突出。3. 学校招生规模较小，属于精英教学
+75	Tufts University	Master of Science in Computer Engineering		https://asegrad.tufts.edu/applying/faqs	1.塔夫茨是有“小常春藤”之称的大学之一 综合排名#29, 工程学院排名#67 2. ECE学院的图像信号处理和纳米级工程研究方向非常突出。3. 学校招生规模较小，属于精英教学
+76	University of Illinois--Urbana-Champaign	Master of Science in Electrical and Computer Engineering			课程有多种研究方向可选，学生可以寻找和自己研究兴趣方向相似的教授，和教授讨论制定自己的论文主题
+77	University of Illinois--Urbana-Champaign	Master of Engineering (MEng) in Electrical and Computer Engineering			课程设置是以专业为导向，帮助学生之后在电子和计算机工程行业更好的就业
+78	University of Wisconsin--Madison	Master of Science Electrical Engineering, Professional			1.实践形纯课程设置，为之后更好的就业做准备 2.课程会包括一个专业发展暑期会议 3.学生可以在学术顾问的帮助下选择在与自己的职业兴趣相一致的课程（重点领域包括计算机工程、场与波、固态/光子学或能源与电力系统。）
+79	University of Wisconsin--Madison	Master of Science, Electrical Engineering			1.课程设置注重研究，可以和教授进行深入的项目研究，且算学分 2.需要准备一篇关于研究问题的论文或项目报告（可自行与教授商量决定是选论文还是项目报告）
+80	University of Wisconsin--Madison	Electrical & Computer Engineering: Machine Learning & Signal Processing MS			
+81	University of Wisconsin--Madison	Electrical and Computer Engineering: Power Engineering, MS			
+82	University of California--Santa Barbara	M.S. in Electrical and Computer Engineering		https://www.ece.ucsb.edu/grad/apply/faqs	1. 综合排名#34, 工程学院排名#24 2. 海滨小城，位于洛杉矶以北120mile. 两面环海全年阳光普照 3. 师资力量也非常雄厚，教授中有6位诺贝尔奖获得者，27位美国国家科学院院士，27位美国国家工程院院士，23位美国人文与科学院院士以及38位美国科学促进会成员
+83	Ohio State University--Columbus	Master of Science in Electrical and Computer Engineering			课程分为1.研究(论文形式）2.项目形式两种选项
+84	Boston University	Master of Science in Electrical & Computer Engineering			1. 综合排名#40, 工程学院排名#36 2.同时也是全美第三大私立大学，坐落在马萨诸塞州（麻省）的波士顿市中心，与哈佛大学、麻省理工学院隔河相对,利于人脉积累 3.  2017年11月，全球就业能力最强大学排行榜出炉，排名第六。
+85	Boston University	Master of Science in Robotics & Autonomous Systems			
+86	Rutgers, The State University of New Jersey--New Brunswick	Master of Science in Electrical and Computer Engineering		https://ece.rutgers.edu/graduate-faqs	1.项目提供一个有助于促进学生个人和专业成长的学习环境 2.课程包括广泛的专业领域 3.获得纽约金融中心的工作和实习机会 4.与顶级行业、国家研究实验室和同行学术机构的研究合作和实习机会
+87	University of Maryland--College Park	M.S. in Electrical & Computer Engineering		https://ece.umd.edu/graduate/prospective-students/faq	项目有thesis 和 non-thesis 选项，学生可以专供以下技术部门：通信和信号处理，计算机工程，控制，微电子，电子物理
+88	University of Maryland--College Park	M.Eng. in Robotics			
+89	University of Washington	Master of Science in Electrical Engineering		https://www.ee.washington.edu/academics/grad/faqs/	1.位于华盛顿州西雅图市，学生与著名的科技公司以及充满活力的初创企业社区非常接近，这使得UW ECE成为一个理想的创业场所 2.毕业生在研究机构或工业界享有有价值的职位，在微软、苹果、波音、Facebook、谷歌、亚马逊、IBM、安捷伦、T-Mobile、Verizon、摩托罗拉、Qwest、National Instruments等公司工作。
+90	University of Washington	Professional Master's Program in Electrical Engineering		https://www.ee.washington.edu/academics/pmp/faqs/	专注于前沿技术课题和最新大学研究，为学生提供推动创新所需的专业知识。PMP专为应届毕业生和已经在该领域工作的专业人士设计，为毕业生准备新的和有回报的职业机会。
+91	Lehigh University	MS/M.Eng in Computer Engineering			学生除了可以在本身课程设置中做不同领域的课题研究（例如数据库和信息系统、互联网搜索、图形、用户界面、基于网络的系统、多媒体和图像处理、生物信息学、智能系统、计算机体系结构、机器人、安全系统等），还可以与其他大学和企业研究实验室其他部门的同事互动，探索计算机科学研究的跨学科方面
+92	Lehigh University	MS/M.Eng in Electrical Engineering			1.给学生提供不通领域课题研究的机会 2.系教职员工参与国家资助项目，在很多关键领域进行研究
+93	Northeastern University	Master of Science in Electrical & Computer Engineering			1.  综合排名#40, 工程学院排名#34 2.东北大学的就业服务Career Service位列全美第1，理工科毕业生在美国东北部公司的受欢迎程度仅次于麻省理工学院与哈佛大学 3. 学校安排Co-op带薪实习超值
+94	Northeastern University	Master of Science in Robotics			
+95	Purdue University--West Lafayette	MSECE Professional Master of Science in Electrical and Computer Engineering			1.分为project track，thesis track和online选择 2.研究生课程是全美最优秀的课程之一，在培养创造力、创新能力和学生成功的环境中，提供严谨、前沿和智力激发的教育体验。学生有机会学习并与那些在研究、教学和指导方面的卓越成就享誉全球的顶尖教师一起工作。
+96	Purdue University--West Lafayette	Thesis Master of Science in Electrical and Computer Engineering			1.分为project track，thesis track和online选择 2.研究生课程是全美最优秀的课程之一，在培养创造力、创新能力和学生成功的环境中，提供严谨、前沿和智力激发的教育体验。学生有机会学习并与那些在研究、教学和指导方面的卓越成就享誉全球的顶尖教师一起工作。
+97	Purdue University--West Lafayette	Autonomy, IoT, and Robotics Professional Master's Programs
+ (ACS)		https://engineering.purdue.edu/ACS/faqs	
+98	Purdue University--West Lafayette	Master of Science in Robotics-online			
+99	University of Minnesota	MS in Robotics		https://cse.umn.edu/mnri/frequently-asked-questions	
+100	Rensselaer Polytechnic Institute	Master of Science in Electrical Engineering and Computer and Systems Engineering			
+101	University of Delaware	Master of Science in Robotics (MSR)			
+102	Arizona State University	MS in Robotics and Autonomous Systems			
+103	University of Colorado Boulder	Robotics
+Master of Science-Thesis			
+104	University of Colorado Boulder	Robotics
+Master of Science-Non Thesis			

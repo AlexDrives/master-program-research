@@ -1,0 +1,110 @@
+Ming Hsieh Department
+of Electrical Engineering
+
+Area Courses
+Analog, Mixed-Signal, and
+Radiofrequency Integrated Circuits
+
+Fundamental Courses
+
+Mixed-Signal
+
+EE 448L Communication Electronics
+
+EE 505 Analog, Mixed-Signal, and RF
+Integrated-Circuit Tape-Out
+
+EE 536ab Analog Integrated Circuits
+
+4 units
+
+4 units
+
+4 a:4 units, b:4 units
+
+EE 477L MOS VLSI Circuit Design
+
+EE 631 Mixed-Signal Integrated Circuits
+
+EE 632ab Integrated Communication
+Systems
+
+4 units
+
+4 units
+
+a:4 units, b:4 units
+
+EE 536a
+
+EE 536a
+
+b: EE 536a
+
+b: EE 632
+
+VLSI
+EE 577ab VLSI System Design
+a:4 units, b:4 units
+
+a: EE 477L, b: EE 577a
+
+Devices and Processes
+EE 507 Micro- and Nano-Fabrication
+Technology
+
+EE 537 Modern Solid-State Devices
+
+4 units
+
+4 units
+
+EE 549 Nanotechnology for Materials,
+Electronics, and Circuits
+
+EE 576 Integrated Memory Devices and
+Technologies
+
+4 units
+
+4 units
+
+EE 582 CMOS: Nano Neuromorphic
+Circuits
+
+EE 601 Advanced Semiconductor
+Device Physics
+
+4 units
+EE 477L
+
+4 units
+EE 471 or EE 539
+
+EE 607 Microelectromechanical
+Systems
+
+EE 637L Current and Future Computing
+Devices and Technology
+
+4 units
+
+4 units
+
+EE 537
+
+Legend
+Grouping
+EE 000 Course Title
+Course Units
+Recommended Prep.
+
+Prerequisite Courses
+Corequisite Courses
+
+This chart shows course relationships
+
+Please check the University Catalogue for specific course details including any recommended prepatory courses and Degree Requirements
+Rev. 202412
+
+

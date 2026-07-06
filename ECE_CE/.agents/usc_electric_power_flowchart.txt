@@ -1,0 +1,98 @@
+Area Courses
+Electric Power Systems
+
+Ming Hsieh Department
+of Electrical Engineering
+
+Fundamental Courses
+
+Transmission, Distribution, and Planning
+
+EE 443 Introduction to Power Systems
+
+EE 525 Power System Protection
+
+4 units
+
+4 units
+
+EE 444 Power Systems Technology
+4 units
+
+EE 521 Power System Analysis and
+Design
+4 units
+
+EE 526 Renewable Energy in Power
+Systems
+EE 443
+
+4 units
+
+High-Voltage Equipment and Design
+EE 516 High-Voltage DC Transmission
+Systems
+
+EE 528 Power Electronics
+
+4 units
+
+4 units
+
+EE 443
+
+EE 443
+
+EE 443
+
+SAE 515 Sustainable Infrastructure
+Systems
+4 units
+
+Power-System Control and the Smart Grid
+EE 482 Linear Control Systems
+
+EE 527 Net-Centric Power-System
+Control
+
+4 units
+
+4 units
+EE 585, 593, 562 or 512
+
+EE 543 Digital Control Systems
+
+EE 585 Linear System Theory
+
+4 units
+
+EE 482
+
+4 units
+
+EE 482, EE510
+
+EE 451 or EE 510
+
+EE 593 Robust Multivariable Control
+4 units
+EE 587
+
+EE 482
+EE 585
+
+Legend
+Grouping
+EE 000 Course Title
+Course Units
+Recommended Prep.
+
+Prerequisite Courses
+Corequisite Courses
+
+This chart shows course relationships
+
+Please check the University Catalogue for specific course details including any recommended prepatory courses and Degree Requirements
+Rev. 202208
+
+

@@ -1,0 +1,1147 @@
+ 
+ 
+ 
+ 
+ 
+Department of Electrical 
+Engineering 
+Graduate Studies Handbook 
+ 
+ 
+Revised 
+November 2025  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents 
+ 
+ 
+PART I:  Academic Policies ..........................................................................................1 
+ 
+I. Enrollment...................................................................................................1 
+A.  Continuous Enrollment ......................................................................1 
+B.  Leave of Absence ...............................................................................1 
+C.  Withdrawal from the Program ............................................................2 
+ 
+II.  Academic Regulations ................................................................................2 
+A. Full-time and Part-time Students ......................................................2 
+B. Registration Limitations ...................................................................3 
+C. Changes in Student Class Schedules ................................................3 
+D. Course Numbers ...............................................................................3 
+E. Graduate Grades ...............................................................................3 
+F. Examinations ....................................................................................5 
+G. Academic Good Standing .................................................................5 
+H. Director of Graduate Studies ............................................................5 
+I. Faculty Advisor ................................................................................5 
+J. Major Area ........................................................................................6 
+K. Qualifying Examination ...................................................................6 
+L. Visitors at Oral Examinations...........................................................6 
+M. Progress Toward a Degree ................................................................7 
+N. Continuing Status .............................................................................7 
+ 
+III. Financial Support ........................................................................................7 
+ 
+IV. Academic Integrity......................................................................................8 
+A. Graduate School Policy ....................................................................8 
+B.   Use of Generative AI ........................................................................8 
+ 
+V. Policies on Harassment & Other Aspects of Student Life ..........................9 
+ 
+A. Graduate School Policy on Harassment ...........................................9 
+B.   Departmental Grievance and Appeal Procedures .............................10 
+ C. Violations of Academic Integrity..................................................... 10 
+ D. Academic Integrity Appeal Process................................................. 10 
+ E. Dismissal ......................................................................................... 11 
+ F. Dismissal Appeal Process................................................................. 11  
+ G.  Graduate Student Vacation Policy…………………………………12 
+ 
+PART 2: Degree Programs …………………………………………………………...12 
+ 
+I. General Requirements .................................................................................12 
+A. Credit Hours .....................................................................................12 
+B. Foreign Language Requirement .......................................................13 
+C. Transfer of Credits ............................................................................13 
+ 
+II. Requirements for the Research Master of Science Degree in Electrical 
+Engineering .................................................................................................14 
+ 
+A. Course-work Requirement ................................................................14 
+B. Residency..........................................................................................14 
+C. Degree Eligibility .............................................................................14 
+D. Advisors and Thesis Directors ..........................................................14 
+E. Admission to Candidacy ...................................................................14 
+F. Master’s Comprehensive Examination .............................................15 
+G. Thesis Requirement ..........................................................................15 
+ 
+ 
+III. Requirements for the Non-research Master of Science Degree ..................16 
+ 
+A. Course-work Requirement ................................................................16 
+B. Residency..........................................................................................16 
+C. Degree Eligibility .............................................................................16 
+D. Advisors ............................................................................................16 
+E. Admission to Candidacy ...................................................................16 
+F. Master’s Comprehensive Exam ........................................................16 
+ 
+ 
+IV. Doctor of Philosophy Degree Requirements ..............................................17 
+ 
+A. Course-work Requirement ................................................................17 
+  B.   Teaching Assistant (TA) Requirement………………………….….17 
+C. Residency..........................................................................................17 
+D. Degree Eligibility .............................................................................17 
+E. Advisors and Dissertation Directors .................................................17 
+F. Examination Requirements...............................................................18 
+G. Admission to Candidacy ...................................................................19 
+H. The Doctoral Dissertation .................................................................19 
+I. Defense of Dissertation ....................................................................20 
+J. Final Submission of Dissertation ......................................................20 
+ 
+ 
+ 
+Revised:  November 2025
+ 1 
+Department of Electrical Engineering  
+Graduate Studies Handbook 
+ 
+In addition to the information in this handbook,  students should also refer to the Graduate 
+School Bulletin of Information and other information available on  the Graduate School 
+website (http://graduateschool.nd.edu), and the Notre Dame guide to student life du Lac 
+(http://dulac.nd.edu/
+). 
+ 
+Part 1:  Academic Policies 
+ 
+I.  Enrollment 
+ 
+Once admitted, all degree and non -degree-seeking graduate students must complete the ND 
+Roll Call process before each semester at the times and locations announced by the 
+University Registrar. Enrollment dates are published in the Graduate School Calendar.  
+ 
+Any admitted student who fails to ND Roll Call  for one or more semester s must apply for 
+readmission upon return. (See “Continuous Enrollment,” below.)  
+ 
+I.A  Continuous Enrollment  
+ 
+All students must enroll each semester in the academic year to maintain student s tatus. 
+Continuous enrollment is met normally by enrollment in the University and registration in a 
+graduate-level course relevant to the student’s program. A student who is  concurrently 
+pursuing degrees in the Graduate School and in another school in the U niversity meets the 
+continuous enrollment requirement by registering for a course in either program. Any 
+exception to this rule, including a leave of absence, must be approved by the Graduate 
+School. (See “Leave of Absence,” below.)  
+ 
+Degree-seeking students must register for at least nine credit hours per semester during the 
+academic year.  Domestic students register for  zero credits for the summer session in which 
+they receive their degree to be considered full -time students . International students must 
+register for 1 credit during the summer session of their  final semester to be considered full 
+time.  Students not in residence during the academic year and taking one credit hour 
+pursuant to continuous enrollment requirements are charged a special registration fee.  
+ 
+A student who fails to enroll for one or more semester s must apply for readmission upon 
+return.  Continuing degree -seeking students (i.e., degree students who ar e eligible to 
+continue their studies in the fall semester) may have access to univer sity facilities and 
+services from May through August without registering and enrolling for academic credit in 
+the Summer Session. 
+ 
+ I.B.   Leave of Absence  
+ 
+For exceptional reasons and on the recommendation of the department, a student in good 
+academic standing may request a leave of  absence for a maximum of two consecutive 
+semesters. A request for a leave of absence must be made before the semester in which the 
+leave is taken , and all leaves of absence must be approved by  the Graduate School. If, for 
+some urgent reason, a student is allowed to leave the University after the beginning of the 
+ 2 
+semester, the withdrawal procedure below must be followed. If at the end of the leave of 
+absence period the student does not return, t he student is considered terminated. Application 
+for readmission is required if the student wishes to return.  
+ 
+ I.C. Withdrawal from the Program  
+ 
+To withdraw from the University before the end of the semester, a student must inform the 
+department and the Graduate School as  well as complete the notice of withdrawal in the 
+Office of the Registrar, 105 Main Building.   
+ 
+Upon approval of the withdrawal, the University enters a grade of “W” for each course in 
+which the student was registered. If a student drops out of the Univer sity without following 
+the procedure described above, a grade of “F” is recorded for each course. 
+  
+The credit for any course or examination will be forfeited if the student interrupts his or her 
+program of study for five years or more. 
+ 
+The University res erves the right to require the withdrawal of any student when academic 
+performance, health status or general conduct may be judged clearly detrimental to the best 
+interests of either the student or the University community. 
+ 
+In the case of a medical leave of absence, clearance from the University Health Center is 
+required prior to readmission. 
+ 
+Students who wish to temporarily interrupt their program for medical reasons must apply to 
+the Graduat e School for a medical separation.  Details are given in the Gr aduate School 
+Bulletin of Information. 
+ 
+ 
+II. Academic Regulations 
+ 
+ II.A. Full-time and Part-time Students  
+ 
+A full-time student is one who is working full time towards his or her degree objective. This 
+normally means that a full-time student is one who (1) registers for nine or more credit hours 
+of required course work per semester in the academic year or six or more credit hours in the 
+Summer Session or (2) is engaged in non-resident dissertation research with an advisor and 
+is registered for a minimum of one credit hour. (See “Continuous Enrollment.”)  
+ 
+A part-time student is any enrolled graduate student who does not fall within either of the 
+preceding categories. Fo r loan purposes, a half -time student is a part- time student who 
+registers for at least six credit hours per s emester in the academic year or three credit hours 
+in the Summer Session. 
+ 
+All degree-seeking students are expected to maintain full -time status and to devote full time 
+to graduate study. No degree-seeking student may hold a job, on or off campus, without the 
+express permission of his or her department and the Graduate School. 
+ 
+   
+ 
+ 3 
+II.B. Registration Limitations  
+ 
+During the academic year, a graduate student may not register for more than 15 credit hours 
+of graduate cour ses in any semester. In the Summer Session, a graduate student may not 
+register for more than 10 credit hours. 
+ 
+ II.C. Changes in Student Class Schedules   
+ 
+A student may add courses only during the first six  class days of the semester. Students may 
+add courses after this time only on the recommendation of the department and with approval 
+of the Graduate School.  
+ 
+A student may drop courses during the first six  class days of the semester. To drop a course 
+after this period and up to the midsemester point (see the Graduate School Calendar f or the 
+exact date), a student must have the approval of the student’s advisor and the Graduate 
+School. A course may be dropped after the midsemester point only in cases of serious 
+physical or mental illness. Courses dropped after this date will be posted on the student’s 
+permanent record with the grade of “W.”  
+ 
+A course taken for credit can be changed to an audit course after the midsemester point only 
+in cases of serious physical or mental illness. 
+ 
+ II.D. Course Numbers   
+ 
+No graduate credit is allowed for courses below the 40000 level . The advanced 
+undergraduate courses numbered 40000 through 49999 may, with the approval of the 
+department chair and the Graduate School, be taken to satisfy up to six credit  hours of 
+graduate degree requirements for an MS and ten credit hours for the PhD.  
+ 
+Courses numbered 60000 through 69999 are first-level graduate courses into which qualified 
+advanced undergraduates may be admitted with the permission of the instructor and the 
+approval of t he chair. Courses numbered 70000 and above are advanced graduat e courses 
+open only to those who have completed the undergraduate and graduate prerequisites. 
+ 
+ II.E. Graduate Grades  
+ 
+Listed below are graduate grades and the corresponding number of quality points per credit 
+hour. 
+ 
+ A   4   
+ A-   3.667   
+ B+   3.333   
+ B   3   
+ B-   2.667   
+ C+   2.333   
+ C   2  
+ C- 1.667 
+ D 1  
+ F   0   
+ I   0 (Until Incomplete is removed)   
+ 4 
+ NR   Not reported   
+ S   0 Satisfactory   
+ U   0 Unsatisfactory   
+ V   0 Auditor (graduate students only)   
+ W   0 Discontinued with permission   
+    
+Quality point values are used to compute the student's G.P.A. The G.P.A. is the ratio of 
+accumulated earned quality points to the accumulated earned semester credit hours. G.P.A. 
+computation takes into account only those grades earned in Notre Dame graduate courses by 
+students with graduate status at Notre Dame. For courses taken in a department or college in 
+the University but outside the Graduate School, or taken outside the University, the  grade 
+will not be included in the G.P.A. computation. 
+ 
+Courses in which the student receives a grade below C cannot be used to satisfy any 
+graduate degree requirements, but they are still included in the computation of G.P.A. 
+ 
+A student receives the temporary grade of “I” (“Incomplete”) when, for acceptable reasons, 
+he or she has not completed the requirements for a 60000 or higher-level graduate course 
+within the semester or summer session. No grade of “ I” can be given for courses below the 
+60000 level or  to graduating students in the final semester or final summer s ession of a 
+terminal degree program. 
+ 
+A grade of “ Incomplete” (I) is given only in exceptional circumstances and only for 
+compelling reasons. When a student receives a grade of “ I” he or she ha s 30 calendar days 
+from when grades were due (for the semester in which the “ I” was given) to complete the 
+coursework. The instructor of record then has 14 calendar days to report the grade. If the 
+coursework is not completed by this date, the grade of “I” will be changed permanently to a 
+grade of “ F”. Extensions for Incompletes require formal approval from the associate dean 
+for academic affairs in the Graduate School. The associate dean reserves the right to seek 
+appropriate documentation from the Office of Disability Services if a request for an 
+extension beyond the usual 30 calendar days is made for mental or physical health reasons. 
+ 
+The University temporarily computes a n “I” as the equivalent of an “ F” in calculating the 
+G.P.A. When the student fulfill s the above requirements, the “ I” is replaced by the new 
+grade. Should the student not complete the course work as required, the “ I” is converted to 
+an “F”. 
+ 
+The department and the Graduate School will review a student who receives more than one 
+“I” in a s emester or an “I” in two or more consecutive semesters, to dete rmine his or her 
+eligibility for continued support and enrollment. 
+ 
+The grades of “S” and “U” are used in cou rses without semester credit hours, as well as in 
+research courses, departmental sem inars, colloquia, workshops, directed studies, field 
+education, and skills courses. These courses, if given the grade of “S”, do figure in a 
+student's earned semester credit-hour total but do not figure in the computation of the G.P.A. 
+A grade of “U” will not count toward the student's earned semester credit-hour total, nor will 
+it figure in the computation of the G.P.A. 
+ 
+The grade of “V” has neither quality -point nor credit -hour value. It is the only grade 
+available to the registered auditor who requests a t the beginning of the semester that it be 
+ 5 
+made part of his or her permanent record and who attends the course throughout the entire 
+semester. The grade of “V” cannot be changed to a credit-earning grade. 
+ 
+The grade of “ W” is given for a course that a student is allowed to drop after the 
+midsemester point.  
+ 
+ II.F. Examinations  
+ 
+Unexcused absence from a scheduled f inal examination results in an “F.” An absence 
+excused in advance results in an “I” (incomplete). 
+  
+II.G. Academic Good Standing   
+ 
+Continuation in a graduate degree program, admission to degree candidacy, and graduation 
+require that the student be in academic good standing. This is defined as mainte nance of a 
+cumulative G.P.A. of at least a 3.0 (B). A student m ay be dismissed from the department or 
+program if the G.P.A. in any one semester is below 2.5 or if the cumulative G.P.A. is below 
+3.0 for two consecutive semesters.  
+ 
+A student who’s cumulative G.P.A. drops below 3.0 is not allowed to register for thesis or 
+dissertation research credits until this deficiency is removed. Also, a student whose 
+cumulative G.P.A. is below 3.0 is not allowed to defend his or her thesis.  A student must be 
+in academic good standing to be eligible for new or continued financial support. 
+ 
+ II.H. Director of Graduate Studies   
+ 
+The Director of G raduate Studies advises all new graduate students concerning the various 
+aspects of graduate study in the Department of Electrical Engineering. The  Director of 
+Graduate Studies also takes care of all procedural aspects of a student's program and is an 
+ex-officio member of the Graduate Committee. 
+ 
+ II.I. Faculty Advisor 
+ 
+Upon entry into our graduate program, each student  will be assigned a temporary academic 
+advisor from among the faculty in the student’s technical area.  This temporary advisor will 
+assist the student during his/her first year in setting up a course plan and identifying research 
+interests.  Normally, graduate students will be required to identify a permanent faculty 
+advisor by March 1 ; it will be the responsibility of this faculty advisor to advise the student 
+on academic matters, direct his/her research, and support the student financially during the 
+student’s graduate program.   Failure to identify an academic advisor who can take on these 
+responsibilities may be regarded as failure to make adequate progress towards the degree 
+(see II.M. below) and be cause for a student to be terminated from the program. 
+ 
+If a student decides that he/she would like to change academic advisors after the first year, 
+they are free to do so.  However, it is the student’s responsibility to make sure that the 
+proposed new advisor is amenable to the change and is capable of supp orting the student 
+financially. 
+ 
+  
+ 
+ 6 
+ 
+II.J. Major Area   
+ 
+The course work and research in Electrical Engineering can be divided into two broad areas: 
+ 
+• (ECS) Electronic Circuits and Systems: communication systems, control systems, 
+signals, and image processing. 
+• (EPMD) Electronic and Photonic  Materials and  Devices: solid -state materials and 
+devices, including optoelectronics. 
+ 
+Normally each student will select one of these areas as his/her major area of concentration. 
+ 
+ II.K. Qualifying Examination  
+ 
+The Qualifying Examination must be taken by all full -time graduate students at the end of 
+their first full year of graduate study. The exam takes place in August for fall adm its and in 
+December for spring admits. A student can take the PhD qualifying exam only if he / she has 
+passed the MS comprehensive exam.  
+ 
+The purpose of this examination is to determine the student's potential and readiness to 
+complete the Ph.D. programs. For fall admits, the student must choose an advisor by March 
+1, and he/she works on a research project with this advisor through the summer. At the end 
+of the summer the s tudent prepares a four -page written report and gives a 25- minute 
+presentation of the  research to a committee composed of three faculty members. The 
+presentation is followed by questions, centered on the research, from the committee.  
+The two parts of the Qualifying Examination are evaluated by the faculty as a whole, and 
+there are two possible outcomes: 
+  
+• Pass 
+• Not pass 
+  
+The faculty may recommend tha t students who have not passed the exam either leave the 
+program, or retake the exam. These recommendations are passed to the Graduate Committee 
+to aid in its determination of the student's fut ure status. Results of the examination are 
+communicated to the student by a letter from the department. A student who has been asked 
+to leave the program may appeal this decision to the graduate committee. Appeals must be 
+submitted withing 15 business days  of the date the letter is issued to the student. The exam 
+can be retaken no more than once. The exam must be completed before the beginning of the 
+student’s fourth semester in order for the student to receive continued financial support from 
+the department.  
+ 
+ II.L. Visitors at Oral Examinations   
+ 
+All oral examinations in the department are open to all members of the Electrical 
+Engineering faculty. Faculty members who are not part of the examining board are fre e to 
+ask questions of the candidate but do not vot e in any reco mmendations arising from the 
+examination. 
+ 
+ 
+ 7 
+II.M. Progress Toward a Degree  
+ 
+A student who commences a degree program in electrical engineering  is expected to 
+demonstrate continuous progress toward that degree. This r egulation is in addition to the 
+constraints imposed by the Graduate School. A student's a dvisor will monitor his or her 
+continuous progress. 
+ 
+II.N. Continuing Status  
+ 
+Students who are admitted to the graduate program are assured of at least two semesters of 
+graduate student status. During that time, they will take the Qualifying Examination. If they 
+do not demonstrate graduate level capability on that examination, they must meet with the 
+Graduate Committee to discuss the co ntinuation of their graduate student status. Similarly, 
+students who do not finish their M.S. program within four semesters must also meet with the 
+Graduate Committee to discuss continuation. 
+ 
+The Graduate Committee may make recommendations to  the Department Chairman and the 
+Graduate School concerning a student's status and financial support. These 
+recommendations are based on a student's course grades, graduate examinations, and other 
+factors. The department will not continue financial support for any student not making 
+satisfactory progress towards a degree. 
+ 
+III. Financial Support  
+ 
+Graduate School Financial Support Policy 
+ 
+Full-time, degree-seeking graduate s tudents in good academic standing may be eligible for 
+financial support supplied by the University.  
+ 
+Financial support from the university comes in two broad classes: 
+• Graduate assistantships and university fellowships.  This support comes from the  
+Graduate School but is allocated by the department.  Graduate students supported by 
+a graduate assistantship should expect to spend at least 12 hours  a week assisting in 
+teaching courses. This usually takes the form of running laboratory sections, 
+recitation secti ons, and/or grading. Graduate students supported by university 
+fellowships may or may not be required to carry out teaching duties, depending on 
+the specifics of the fellowship. 
+• Research assistantships.  These are a form of support provided by individual f aculty 
+members who obtain grants from external agencies (e.g., National Science 
+Foundation or NASA) to carry out research projects. Students  are expected to work 
+with the faculty member in performing research as part of their training. Research 
+assistants are normally expected to be working on their resea rch projects year-round. 
+Vacation times need to be coordinated with the research director. 
+ 
+Graduate assistants, research assistants, and fellows who receive a full stipend should not be 
+employed elsewhere on campus. (Exceptions must be approved by the Graduate School.)    
+For administrative and visa purposes, these positions are considered to be part -time at 18 
+hours per week. 
+ 
+Graduate assistants and research assistants are restricted to a maximum load of 15 credit 
+ 8 
+hours of course work per semester.  
+ 
+New graduate stud ents admitted with support (either GA , RA, or a fellowship ) can be 
+assured of support for two semesters. Support in the summer must normally come from a 
+research assistantship in association wi th a faculty member. It is the student’s responsibility 
+to make such arrangements with a faculty member able to provide support. 
+ 
+The Qualifying Examination should be passed before the beginning of the student’s fourth 
+semester in order for the student to receive continued financial support from the department. 
+ 
+A gra duate student cannot receive more than eight years of financial support from the 
+Graduate School or from funds allotted by the Graduate School to departments.  
+ 
+ Compliance with Federal Aid Regulations  
+ 
+Recipients of federal financial aid must comply with  the standards of progress set by their 
+respective departments for their particular programs of study. When  failure to maintain 
+progress results in the possible loss of financial aid eligibility, the Office of Financial Aid 
+will notify student s in writing . Appeals indicating any mitigating circumstances must be 
+made in writing to the associate director of financial aid. 
+ 
+IV. Academic Integrity  
+  
+ IV.A Graduate School Policy  
+ 
+Integrity in scholarship and research is an essenti al characteristic of our academic life and 
+social structure in the university. Any activity that compromises the pursuit of truth and the 
+advancement of knowledge besmirches the intellectu al effort and may undermine 
+confidence in the academic enterprise. A commitment to honesty is expected in all academic 
+endeavors, and this should be continuously emphasized to students, research assistants, 
+associates, and colleagues by mentors and academic leaders. 
+ 
+The procedures for ensuring academic integrity in the Gr aduate School are distinct from 
+those in the Undergraduate Code of Honor.  Details are given in the Graduate School 
+Bulletin of Information. 
+ 
+IV.B Use of Generative AI in Comprehensive Exams, Theses, and Dissertations 
+ 
+The Oral Qualifying Exam, Candidacy Exam, Master’s  Thesis, and Ph.D. Dissertation, 
+produced by a student in fulfillment of the requirements of a doctoral or master’s degree 
+program, are expected to be the student’s original work. The contributions and ownership of 
+all submitted work must be fully transpar ent so that the scholarly merit, contribution, and 
+originality can be properly evaluated. Advisors must be informed at the outset, and kept 
+informed, of the  desired role and e xtent of any AI tools the student would like to use in 
+preparing or reporting the student’s research. 
+ 
+A student must not submit any document or work or give any presentation that contains 
+written content, images, tables, references, or data generated by AI tools, unless one or more 
+of the following apply: 
+ 
+ 9 
+• such use and content is approved by the student’s research advisor 
+• AI use is an approved accommodation under the Americans with Disabilities Act 
+• a student’s thesis or dissertation includes research on AI  with examples clearly 
+identified as examples and cited appropriately 
+  
+If approved by the student’s research advisor, the extent of AI usage should be disclosed in a 
+statement within the exam, thesis, dissertation, or presentation.   If the use of AI is an  
+approved accommodation, the following statement must be included: “ The use of AI in this 
+dissertation is an approved accommodation under the Americans with Disabilities Act 
+through the Notre Dame Office of Accessibility Services. ” Representing work that t he 
+student did not produce as their own, including work generated or  sufficiently modified by 
+AI in such a way to change its main idea, introduce new ideas, or reshape the overall 
+meaning of the text, constitutes academic dishonesty. 
+ 
+Failure to disclose the use of AI -generated suggestions, including edits to spelling, 
+punctuation, or grammar, in a statement may constitute academic dishonesty.  Students who 
+violate this policy will be subject to the university’s disciplinary procedures for academic 
+misconduct, which may include termination of their degree program and expulsi on from the 
+university. 
+ 
+Suggestions for appropriate use of AI for editorial assistance 
+ 
+Unless you meet one of the allowances above, you must not use AI in any way. If you do 
+meet one of the allowances above, examples of approved use include:   
+ 
+• correcting spelling, punctuation, and grammar 
+• correcting formatting of margins, headings, and citations 
+• making writing style suggestions, such as shortening long sentences, without 
+changing the meaning of the text 
+  
+Any use of AI, including these sugge stions, must be disclosed in a statement within the 
+exam, document, or presentation . The student is responsible for checking that the 
+formatting revisions suggested by generative AI are correct and com ply with their published 
+style manual and the Graduate School’s formatting requirements.  When using AI 
+technologies as a source of information, if allowed, you are responsible for assessing the 
+quality, completeness, and accuracy of the cited information. 
+ 
+ 
+V. Policies on Harassment and Other Aspects of Student Life  
+ 
+V.A Graduate School Policy on Harassment 
+ 
+ Sexual and discriminatory harassment are prohibited by the university. Definitions and 
+policies regarding sexual harassment, discriminatory harassment and other aspects of student 
+life and behavior are described in du Lac, which is the University’s description of student 
+life policies and procedures. Students in the Graduate School must abide by those portions 
+of du Lac that  explicitly refer to  graduate students or to the Graduate School. Copies of du 
+Lac are available online at http://dulac.nd.edu.  
+ 
+ 10 
+ 
+V.B. Departmental Grievance and Appeal Procedures 
+ 
+One of the realities of graduate experience is that not everyone who begins a doctorate 
+completes it. It is important that we have fair processes that protect both students and 
+programs in cases of academic integrity and when students must be dismissed. The purpose 
+of this document is to provide programs with a model that can be adapted in the progr am’s 
+student handbook that will ensure an equitable process. This process is restricted to 
+academic issues; issues of personal misconduct are handled by Student Affairs. For issues of 
+sexual or discriminatory harassment or disability -related grievances please consult du Lac: 
+A Guide to Student Life at http://dulac.nd.edu
+. 
+ 
+An appeal is a two -step process; the first is  through the program. If the student does not 
+agree with the program’s decision, she or he may appeal to the Dean of the Graduate School, 
+who makes the final determination. The Graduate School’s grievance process can be found 
+at: http://graduateschool.nd.edu
+. 
+ 
+V.C. Violations of Academic Integrity 
+ 
+A commitment to honesty is expe cted in all academic endeavors, and this should be 
+continuously emphasized to students, research assistants, associates, and colleagues by 
+mentors and academic leaders.  
+ 
+Violations of academic integrity may occur in classroom work and related academic 
+functions or in research/scholarship endeavors. Classroom -type misconduct includes the use 
+of information obtained from another student’s paper during an examination, plagiarism, 
+submission of work written by someone else, falsification of data, etc. Violation of integrity 
+in research/scholarship is deliberate fabrication, falsification, or plagiarism in proposi ng, 
+performing, or reporting research or other deliberate misrepresentation in proposing, 
+conducting, reporting, or reviewing research. Misconduct does  not include errors of 
+judgment, errors in recording, selection, or analysis of data, differences in opinions 
+involving interpretation, or conduct unrelated to the research process. Misconduct includes 
+practices that materially and adversely affect the integrity of scholarship and research.  
+ 
+A violation of academic integrity is a serious accusation. The punishment of a s tudent who 
+is found to be in violation should be determined by the graduate committee of the 
+Department of Electrical Engineering.  If a student is charged with a violation of academic 
+integrity, he or she may appeal the program’s decision. 
+  
+V.D. Academic Integrity Appeal Process (as reflected in the Graduate Bulletin) 
+ 
+Any person who has reason to believe that a violation of this policy ha s occurred shall 
+discuss it on a confidential basis with the EE department chair. If a perceived conflict  of 
+interest exists between the chair/director and the accused, the appropriate associate dean of 
+the College of Engineering shall be notified of the charge.  
+ 
+The chair shall evaluate the allegation promptly. If it is determined that there is no 
+substantial basis for the charge, then the matter may be dismissed with the fact of dismissal 
+being made known to the complainant and to the accused if he or sh e is aware of the 
+accusation. A written summary of charges, findings, and actions shall be forwarded to t he 
+ 11 
+dean of th e Graduate School as a matter of documentation. Otherwise, the chair will select 
+an impartial panel consisting of three members, one of whom may be a graduate student, to 
+investigate the matter.  
+ 
+The chair will inform the accused of the charges. The panel  will determine initially whether 
+to proceed directly to a hearing to further investigate the case, or to dismiss the charges. If 
+the pane l decides to proceed directly to a hearing, the hearing will be held within 10 
+business days of the origi nal notification. If the panel decides that further investigation is 
+necessary, it shall immediately notify the chair. If it decides that a hearing is not warranted, 
+all information gathered for this investigation will be destroyed. The utmost care will be 
+taken to minimize any negative consequence to the accused. 
+ 
+The accused party must be given the opportunity to respond to any and all allegations and 
+supporting evidence at the hearing. The response will be made to the appointed panel. The 
+panel will make a final judgment, recommend appropriate disciplinary action, and report to 
+the chair in writing. The report will include all of the pertinent document ation and will be 
+presented within 30 days after meeting with the accused. Copies of the report are to be made 
+available to the accused, the chair, and the dean of the Graduate School. If a violation is 
+judged to have occurred, this might be grounds for di smissal from the University; 
+research/scholarship violations might be reported to the sponsor of the rese arch effort (e.g., 
+NSF, NIH, DOD, etc.), if appropriate. 
+ 
+V.E. Dismissal 
+ 
+Students may be dismissed at either an exam gateway –e.g., the qualifying, candidacy, or 
+defense examinations –or through poor performance. It is critical for the program to 
+communicate the standards to students in advance and in writing.  
+ 
+If a student fails to pass an exam, the Director of Graduate Studies will write the student 
+informing him or her of the failure and provide information about any recourse of action that 
+the student might have. If a student is performing poorly, the advisor or DGS should provide 
+the student with a written notice about the poor performance; indicate the expectations 
+necessary to remain in the program, and give the student a specific time when he or she will 
+be re-evaluated. 
+ 
+Dismissal should not be a surprise to a student. There should be clear records of the 
+expectations and performance. 
+ 
+V.F. Dismissal Appeal Process 
+ 
+If a student is dismissed for academic reasons, he or she may appeal the program’s decision.  
+Complaints must be initiated by a written statement from the student to the chair of the EE 
+Department within 10 business days from the time w hen the student is informed of 
+dismissal. To hear the appeal, the department chair appoints an ad hoc  committee composed 
+of three members: him/herself and at least two faculty members unconnected factually with 
+the case or the reasons for the appeal. A graduate student can replace one of the two faculty 
+members on the committee if the nature of the appeal war rants such. If the department chair 
+has been involved in the case, the appropriate associate dean of the College of Engineering 
+should appoint the comm ittee and designate the person to serve as its chair.   The student’s 
+statement should indicate details on the nature of the problem, the date(s) the problem 
+ 12 
+occurred, the grounds upon which the appeal is based, background information that the 
+student considers important and the relief requested. 
+ 
+The appeals committee will promptly and thoroughly investigate the appeal to  determine 
+whether the relief requested is warranted.   The investigation may include interviews and/or 
+written statements from the student, any student witnesses, faculty or staff members who 
+may be able to provide pertinent information about the facts, as  well as a review of any 
+pertinent documents.   
+ 
+In most situations, the appeals committee will complete the investigation in 30 business 
+days. There may be some reports that cannot be investigated within 30 business days. In 
+such cases, the chair of the a ppeals committee will communicate to the student that the 
+investigation is going to take longer than 30 business days and will also include a statement 
+indicating when the committee anticipates completing the investigation. The department 
+chair will notify the student in writing of his/her decision.  If the chair has been involved in 
+the case, the decision will be made by the designated chair of the ad hoc committee. 
+ 
+V.G Graduate Student Vacation Policy 
+  
+All Ph.D. graduate students are eligible to take tw o weeks (10 vacation days) of vacation 
+during each twelve -month period in addition to the following University holidays: Martin 
+Luther King Jr. Day, Good Friday, Memorial Day, Independence Day, Labor Day, 
+Thanksgiving and the day after Thanksgiving, Christmas through New Year Celebration.  
+Weekends and the weeks of Fall break and Spring break are not University holidays.  
+Appropriate vacation days should be worked out well in advance with the student’s advisor 
+and supervising instructor (if serving as a TA)  to ensure they do not conflict with other 
+responsibilities.  Students requesting vacation time must first obtain a  Vacation Request 
+Form from the Department’s Graduate Administrator (DGA), fill out the form, obtain 
+required signatures, and return to the DGA. 
+ 
+ 
+Part 2: Degree Programs 
+ 
+I. General Requirements 
+ 
+These requirements are common to all degrees offered by the Department of Electrical 
+Engineering. 
+ 
+I.A. Credit Hours 
+ 
+ Semester Credit hours for courses taken at Notre Dame are classified as follows.  Earned 
+credit hours refers to credit hours awarded for completion of a course at the University.  
+These earned credit hours are classified as either lecture (L), research (R), or teaching (T) 
+credit hours.  Lecture (L) credit hours are for any lecture course providing a letter grade.  
+Research (R) credit hours are for the S/U graded courses of Special Studies (EE 67598), 
+Thesis Direction (EE 68599), or Research and Dissertation (EE 88699).  Teaching (T) credit 
+hours are for the S/U graded course of Grad Teaching Assist Training (EE 88500).   
+ 
+ 
+ 13 
+I.B. Foreign Language Requirement    
+ 
+ The Department of Electrical Engineering has no foreign language requirement. 
+ 
+I.C. Transfer Credits 
+ 
+The department may accept course work completed at another accredited university toward 
+meeting its degree requirements. A student may transfer credits earned at another accredited 
+university only if:  
+ 
+1. the student is in degree status at Notre Dame;  
+2. the courses taken are graduate courses appropriate to the Notre Dame graduate program 
+and the student had graduate student status when he or she took these courses;  
+3. the courses were completed within a five -year period prior to admission to a graduate 
+degree program at Notre D ame or while enrolled in a graduate degree program at Notre 
+Dame; 
+4. grades of “B” (3.0 on 4.0 scale) or better were achieved; and  
+5. the transfer is recommended by the student’s advisor, approved by the  Graduate 
+Committee, and finally approved by the Graduate School.  
+ 
+ 
+These five requirements also apply to the transfer of credits earned in another program at 
+Notre Dame.  
+ 
+The student must petit ion the Graduate Committee for transfer of credits.  The department  
+considers a request for credit transfer only after  a student has completed one year  in a Notre 
+Dame graduate degree program and before the semester in which the graduate degree is 
+conferred. The university of origin must submit two transcripts directly to the Notre Dame 
+Graduate School. Credi ts not earned  on the semester system, such as trimester and quarter -
+hour credits, will be transferred on a pro- rata basis.  
+ 
+A student transferring fr om an unfinished master’s program may not transfer more than six 
+(6) semester lecture course credit hours into a Notre  Dame master’s or Ph.D. program.   If 
+the student has completed a master’s degree, he or she may transfer up to six  (6) lecture 
+credit hours to a Notre Dame master’s program and up to fifteen  (15) lecture credit hours to 
+a Notre Dame Ph.D. program. 
+ 
+Occasionally, a student may need to do dissertation research at another institution. 
+Normally, the student would register for the appropriate number of credit hours of research 
+at Notre Dame. If the student does not enroll at Notre Dame and expects to count rese arch 
+hours earned elsewhere toward the Notre Dame degree, the student must have the approval 
+of the department and the Graduate School in advance. The university requires similar prior 
+approval for formal courses taken elsewhere and applied to the degree program.  
+ 
+No grades of transferred courses are included in the student’s G.P.A. 
+ 
+ 
+ 
+ 
+ 14 
+II. Requirements for the Research Master of Science Degree in Electrical 
+Engineering 
+ 
+ II.A.  Course-work Requirement    
+ 
+The M.S. program requires a minimum of thirty (30) earned semester credit hours , of which 
+a minimum of eighteen (18) credit hours must be lecture credit hours (letter graded courses, 
+not including seminars), and a minimum of six (6) earned credit hours must be research 
+credit hours in Thesis Direction (EE 68599) .  Up to nine (9) semester hours of lecture credit 
+may be taken from departments other than the Department of Elec trical Engineering, but 
+should be approved by the student’s advisor. The course work should be designed to prepare 
+the student adequately for work in the major area of specialization. Advanced undergraduate 
+courses, numbered 40000 to 49999, may be taken for up to six (6) lecture credit hours. 
+ 
+II.B. Residency  
+ 
+The minimum residency requirement for the master’s degr ee is registration in full- time 
+status for one semester during the academic year. 
+ 
+II.C. Degree Eligibility   
+ 
+Failure to complete all requirements for the master’s degree within five years results in 
+forfeiture of degree  eligibility. A master’s program that is pursued during the summer and 
+the academic year must also be com pleted within five years. A student attending Summer 
+Session only must complete all requirements within seven years. 
+ 
+II.D. Advisors and Thesis Directors    
+ 
+Every graduate student must have  a faculty advisor. The advisor w ill assist the student in 
+choosing courses and in choosing a thesis topic ; the advisor  is also responsible for 
+financially supporting the student. If a student wishes to change advisors, it is permitted with 
+the proviso that the proposed new advisor must a gree to the change and be able to meet all 
+responsibilities with respect to the student. Changing advisors more than once is 
+discouraged. 
+ 
+Any student who is working on a n MS thesis in the Electrical Engineering Department must 
+have either a thesis advisor or co-advisor who is a regular faculty member in the department. 
+If two or more people share the responsibility of thesis a dvisor, they shall each be known as 
+thesis co-advisors and each shall sign the final thesis document. I f a thesis invol ves work 
+outside the department, it must be directed, at least in part, by a faculty member from the 
+department. 
+ 
+II.E. Admission to Candidacy  
+ 
+To qualify for admission to M.S. candidacy, a student must be in a master’s degree program. 
+He or she must have been enrolle d in the program without interruption and maintained a 
+minimum cumulative G.P.A. of 3.0 in approved course work. A student who seeks 
+admission to candidacy in a research master’s program must also demonstrate research 
+capability.  
+ 
+ 15 
+Admission to candidacy is a prerequisite to receiving any graduate degree. It is the student’s 
+responsibility to apply for admission by signing and submitting the appropriate form to the 
+Graduate School office through the graduate coordinator. The applicable deadline is 
+published in the Graduate School Calendar. 
+ 
+II.F. Master’s Comprehensive Examination    
+ 
+A student must pass the M.S. comprehensive exam to obtain the Master's Degree.  The exam 
+consists of final exams of four cours es out of a l ist of the courses as approved by the 
+department’s Director of Graduate Stud ies. The student will indicate the courses for 
+which he / she wants to have the finals considered for the qualifier by the last class day of 
+the corresponding semester. The perform ance of the student is evaluated by the faculty as a 
+whole and the outcome determined. The exam must be finished within the first two 
+semesters, unless the department grants a waiver. A student who fails the exam can appeal to 
+the graduate committee along with his / her advisor. 
+ 
+II.G. Thesis Requirement   
+ 
+To receive a research M.S.E.E., students must writ e a thesis under the guidance of a faculty 
+advisor and register for a total of  at least six (6) credit hours of thesis  research (EE 68599). 
+In addition, no later than one semester before he/she expects to graduate, the student must 
+submit a Thesis Advisor Certification to the Graduate Committee. The thesis advisor and the 
+student are then responsible for choosing an Oral Thesis Defense examining board, which is 
+comprised of the thesis advisor plus two readers. 
+Readers are appointed from among the regular fa culty of the student’s department. The 
+appointment of a reader from outside the student’s department must have the Gra duate 
+School’s prior approval. The thesis director may not be one of the official readers.  
+ 
+The thesis should follow the guidelines in the Graduate School’s Guide for Formatting and 
+Submitting Dissertations and Theses, available at the Graduate School off ice. The thesis 
+director indicates final approval of the thesis and its readiness for the readers by signing the 
+thesis.  
+ 
+The candidate then delivers signed copies of the completed thesis to the two official readers 
+appointed by the department. Each reade r must unconditionally approve the thesis and the 
+department should promptly report the results to the Graduate School. 
+Upon acceptance of the thesis by the Oral Thesis Defense examining board, the student must 
+successfully pass the Oral Thesis Defense. This examination is conducted as a thesis defense 
+and may include general questions on the candidate's major area. 
+ 
+After successfully passi ng the Oral Thesis Defense, the candidate should deliver two clean 
+copies signed by the thesis director to the Graduat e School office on or before the date 
+specified in the Graduate School Calendar. There it will be verified for compliance with the 
+style manual.  An additional copy should be given to the department for binding. 
+ 
+Students should be cognizant of deadlines for graduation established by the Graduate School 
+and the department.  
+ 
+Should a student and advisor decide to microfilm a thesis, informat ion concerning the 
+University Microfilms International Master’s Publishing Program may be obtained from the 
+ 16 
+Graduate School office. 
+ 
+III. Requirements for the Non-research Master of Science Degree in Electrical 
+Engineering  
+ 
+III.A. Course-work Requirement    
+ 
+The non-research M.S. program requires a minimum  of thirty (30) earned credit hours.  A 
+minimum of twenty -seven (27) of these earned credit hours must be lecture course credit 
+hours (letter graded courses, not including seminars). No more than nine (9) hours of lecture 
+course credit may be taken from departments other than the Department of Electrical 
+Engineering. The course work should be designed to prepare the student adequately for 
+work in the major area of specialization.  Advanced undergraduate courses, numbered 40000 
+to 49999, may be taken for up to six (6) lecture credit hours. 
+  
+III.B. Residency  
+ 
+The minimum residency requirement for the master’s degree is registration in full- time 
+status for one semester during the academic year. 
+ 
+III.C. Degree Eligibility   
+ 
+Failure to complete all requirements  for the master’s degree within five years results in 
+forfeiture of degree eligibility. A master’s program that is pur sued during the summer and 
+the academic year must also be completed within f ive years. A student attending Summer 
+Session only must complete all requirements within seven years. 
+ 
+III.D. Advisors   
+ 
+Every graduate student must have  a faculty advisor. The advisor will assist the student in 
+choosing courses and meeting department requirements.  
+ 
+III.E. Admission to Candidacy  
+ 
+To qualify for admission to candidacy, a student must be in a master’s degree program. He 
+or she must have been enrolled in the program without inte rruption and maintained a 
+minimum cumulative G.P.A. of 3.0 in approved course work.  
+Admission to candidacy is a prerequisite to receiving any graduate degree. It is the student’s 
+responsibility to apply for admission by signing and submitting the appropriate form to the 
+Graduate School office through the graduate co ordinator. The applicable deadline is 
+published in the Graduate School Calendar. 
+ 
+III.F. Master’s Comprehensive Exam  
+ 
+A student must pass the M.S. comprehensive exam to obtain the Master's Degree.  The exam 
+consists of  final exams of four courses out of a list of the courses as approved by the 
+department’s Director of Graduate Studies. The student will indicate the courses for which 
+he / she wants to have the finals considered for the qualifier by the last cl ass day of the 
+corresponding semester. The performance of the student is evaluated by the faculty as a 
+whole and the outcome determined.  The exam must be finished within the first two 
+ 17 
+semesters, unless the department grants a waiver. A student who fails the exam can appeal to 
+the graduate committee along with his / her advisor. 
+ 
+ 
+IV. Doctor of Philosophy Degree Requirements 
+ 
+The Degree of Doctor of Philosophy is conferred only in recognition of proficiency and high 
+attainment in advanced scholastic endeavor and independent investigation. It is not 
+conferred merely for  the completion of a required number of courses but for demonstrated 
+independence, initiative, and exceptional ability in study and thought. 
+ 
+IV.A. Course-work Requirement    
+ 
+The Ph.D. degree requires a minimum of sixty (60) earned semester credit hours.  A 
+minimum of twenty -seven (27) of these earned credit hours must be lecture course credit 
+hours (letter graded courses , not includ ing seminars).  A minimum of twenty -seven (27) of 
+these earned credit hours must be research credit hours from the S/U graded courses Special 
+Studies (EE 67598), Thesis Direction (EE 68599), or Research and Dissertation (EE  88699).  
+No more than six (6) lecture credit hours from EE courses numbered 40000 to 49999 may 
+count toward degree cr edit. Students are encouraged to pursue course work outside the 
+department whenever such study supports their program in the major area. 
+ 
+IV.B. Teaching Assistant (TA) Requirement   
+The Ph.D. degree requires a minimum of six (6) teaching earned credit hours from the S/U 
+graded course Grad Teaching Assist Training (EE 88500).  Each teaching course credit 
+corresponds to an average of 4 hours per week of teaching assistant (TA) duties under the 
+supervision of a course instructor.   
+  
+IV.C. Residency   
+ 
+The minimum residency requirement for the Ph.D. degree is three years in resident study 
+and full-time status for four consecutive semesters. 
+ 
+IV.D. Degree Eligibility   
+ 
+The student must fulfill all doctoral requirements, including the dissertation and its defense, 
+within eight years from the time of matriculation. Failure to complete any of the Graduate 
+School or departmental requirements within the prescribed period results in forfeiture of 
+degree eligibility.  
+ 
+IV.E. Advisors and Dissertation Directors    
+ 
+Any student who is working on a doctoral degree in the Electrical Engineering Department 
+must have either a Dissertatio n Advisor or a Dissertation  Co-Advisor who is a regular 
+faculty member in the department. If two or more people share the responsibility of 
+Dissertation Advisor, they shall each be known as Dissertation  Co-advisors and each shall 
+sign the final Dissertatio n document. Thus, if a dissertation  involves work outside of the 
+department, it must be directed, at least in part, by a faculty member fr om the Department of 
+ 18 
+Electrical Engineering. 
+ 
+IV.F. Examination Requirements 
+ 
+Each Ph.D. student must pass three examinations to fulfill the department requirements for 
+graduation -- the Qualifying Examination, the O ral Candidacy Examination, and the 
+Dissertation Defense. The Qualifying Examination is used to determine whether the s tudent 
+has the potential and required background for obtaining the Ph.D. Degree. The Oral 
+Candidacy Examination is administered to determine whether the student has depth in his 
+research area and has identified a viable dissertation topic. At the Dissertat ion Defense, the 
+student defends his or her dissertation before an oral examining board. 
+ 
+Qualifying Examination 
+ 
+The student must demonst rate Ph.D. capability on the Qualifying Examination 
+described in Section II.K.  
+ 
+Oral Candidacy Examination 
+ 
+In additi on to passing the Qualifying Examination, a student seeking the Ph.D. 
+degree must pass the Oral Candidacy Examination to become a Ph.D. Candidate. The 
+purpose of this examination is to determine if the student has depth in his /her major 
+area, has identified a viable dissertation topic, performed the appropriate literature 
+search, and proposed a reasonable set of research goals. Typically, this examination 
+is taken during the fifth semester, after the completion of 30 lecture course credits  
+and 12 research course credits .  It must be taken before the end of the eighth 
+semester, or the student will no longer be eligible for any kind of support from the 
+Graduate School – including tuition waivers. 
+ 
+The student must prepare a written Dissertatio n Proposal that  summarizes the 
+background of the research topic together with the proposed plan of investigation. 
+This proposal is distributed, at least three  weeks prior to the examination, to the 
+members serving on the Oral Candidacy examining board.  
+ 
+The exam committee consists of at least  three voting members in addition to the 
+advisor and any co- advisors.  Normally, this board has the same membership as the 
+student’s dissertation committee. Board members are chosen from the faculty of the 
+Electrical Engineering department by the student. Committee members outside of the 
+department must be approved by the graduate committee.  The student  writes a letter 
+(signed by the faculty advisor) to the graduate committee, accompanied by a CV of 
+the prospective mem ber.  The department gives a blanket approval to faculty from 
+chemistry, physics, and computer science & engineering since there is so much 
+collaboration between the departments.  The student’s advisor acts as the chair of the 
+exam. 
+ 
+Please see the Graduat e Coordinator for instructions and to reserve a time and place 
+for your Oral Candidacy Examination at least one week prior to the exam .  I t is 
+imperative that the guideline is followed in a timely fashion and that the committee 
+members have nominally one m onth and no less than three weeks to review the 
+proposal.  
+ 19 
+ 
+At the Oral Candidacy Examination, the student will begin the proceedings  with a 
+presentation outlining the contents of the dissertation proposal . Members of the 
+examining board will then question the student  on the contents of his/her 
+presentation and related areas.  
+ 
+After completion of the examination, the chair calls for a discussion followed by a 
+vote of the examiners. A passing vote  means that the examining board fee ls the 
+student has acquire d the proper background and that it approves the Dissertation 
+Proposal. A vote with no more than one negative vote is  required to pass. The chair 
+of the exam must submit the reporting form on the results , which is required within 
+five business days.  The Graduate School officially notifies the student of the results.  
+ 
+In case of failure of the doctoral candidacy examination, the department chair, on the 
+recommendation of a majority of the examiners, may authorize a retake of the 
+examination. An authorization for retake must be approved by the Graduate School. 
+A second failure results in forfeiture of degree eligibility and is recorded on the  
+candidate’s permanent record. 
+ 
+IV.G. Admission to Candidacy   
+ 
+Admission to ca ndidacy is a prerequisite to receiving any graduate degree. To qualify for 
+admission to doctoral candidacy, a student must:  
+ 
+1. be in a doctoral program;  
+2. have been continuously enrolled in the program for four consecutive semesters;  
+3. complete the department al course work requirement with a cumulative average of 
+3.0 or better.  36 course credits  must be completed before taking the candidacy 
+examination;  
+4. pass the written and oral parts of the doctoral candidacy examination (passing the 
+written part is equivalent to passing the qualifying examination.)  
+ 
+The Graduate Coordinator will file  for candidacy admission by submitting the appropriate 
+form to the Graduate School office through the D epartment Chair or the Director of 
+Graduate Studies.  Consult the Graduate School Calendar for the appropriate deadlines. 
+ 
+IV.H. The Doctoral Dissertation    
+ 
+The disser tation is prepared under the guidance of the student's dissertation advisor. The 
+department chair or director of graduate studies will appoint a dissertation committee 
+consisting of the dissertation director and any co- advisors and at least three official readers. 
+Normally, the committee is drawn from the membership of the student’s oral candidac y 
+board. The readers shoul d come from among those participating in the Oral Candidacy 
+Examination. It is expected that they will be consulted frequently by the student throughout 
+the research period either individually or as a group. 
+  
+The candidate schedules the defense 5 weeks pr ior to the defense date and delivers typed 
+copies of the finished dissertation, signed by the director, to the readers at least three  weeks 
+before the dissertation defense. The dissertation should follow the guidelines in the Graduate 
+School’s Guide for Formatting and Submitting Dissertations and Theses, even if the 
+ 20 
+candidate has previously published the substance of the dissertation in scholarly journals. 
+The Guide is available on the Graduate School website.  
+ 
+Readers normally have three weeks to read the dissertation, decide whether it is ready to be 
+defended, and so indicate on the Reader’s Report  to the Graduate School  due 3 business 
+days prior to the defense . Reader approval of the dissertation for defense does not imply 
+reader agreement or support; it  implies reader acknowledgment that the dissertation is an 
+academically sound and defensible scholarly product. Only a dissertation that has been 
+unanimously approved for defense by the readers may be defended.  
+ 
+See the Graduate Coordinator for instructio ns and to reserve a time and place for your 
+Doctoral Dissertation.  It is imperative that the completed Reader's Report on Doctoral 
+Dissertation forms are received in the Graduate School no later than 3 business days prior to 
+the examination.  
+ 
+Even though the dissertation has been approved for defense, revisions may be required. If 
+defects in the dissertation come to light at the defense, t he candidate may be asked to revise 
+the dissertation before it is accepted by the Graduate School and the degree is co nferred. In 
+that case, it will be the responsibility of the dissertation director, or such person as the 
+committee may appoint, to report to the Graduate School that such revisions have been 
+completed satisfactorily. 
+ 
+ 
+IV.I. Defense of Dissertation   
+ 
+The defense is chaired by the student’s advisor . The defense board consists of the 
+dissertation committee. A vote with no more than one negative vote is required to pass.  A 
+reporting form on the results is required within 5 business days. 
+ 
+IV.J. Final Submission of Dissertation 
+ 
+To receive the degree at the next commencement, the doctoral candidate who ha s 
+successfully defended his or her dissertation must submit it to the Graduate School on or 
+before the deadline publis hed in the Graduate School calendar. Candidates should be 
+cognizant of deadlines for graduation established by the Graduate School and the  
+department. 
+ 
+When the final dissertation is given to the readers, the candidate should also give a complete 
+copy to t he Graduate School, where it will be reviewed for compliance with the style 
+manual. This copy may be submitted electronically as a PDF or delivered as a printed 
+document.  
+ 
+After successfully defending the dissertation and making any necessary changes, the  
+candidate must present the document to the Graduate School for final approval and 
+submission. The student must  submit the dissertation electronically by uploading one 
+complete PDF copy to the Hesburgh Library's Electronic Dissertation and Thesis website , 
+and provide two signed title page s and any other necessary forms to the Graduate School.  
+One printed copy, with signed title page, and a PDF file should be submitted to the 
+department Graduate Coordinator. 
+ 
+ 21 
+Additionally, the depa rtment provides a coordina tion service for binding.  The candidate 
+provides clean, printed copies of the dissertation, each signed by the dissertation director. 
+The candidate and the advisor will decide who pays the cost of binding. 
+ 
+The Graduate Council requires that all doctoral dissertations be microfilmed by ProQuest 
+Information and Learning. Microfilming costs are also paid at the Graduate School office, 
+which handles this publication requirement for the candidate.  
+  
+ 
+Revised 
+November 6, 2025, University of Notre Dame 

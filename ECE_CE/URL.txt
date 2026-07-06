@@ -1,0 +1,63 @@
+耶鲁 Yale ECE Terminal Master's 项目主页：https://engineering.yale.edu/academic-study/departments/electrical-and-computer-engineering/graduate-study
+耶鲁 Yale ECE GSAS 项目页：https://gsas.yale.edu/programs-of-study/electrical-computer-engineering
+耶鲁 Yale ECE GSAS Catalog：https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/
+耶鲁 Yale ECE Qualification Procedure PDF：https://engineering.yale.edu/application/files/1917/5208/7143/25-26_Qualification_Procedure.pdf
+
+杜克 Duke ECE MS 项目主页：https://ece.duke.edu/academics/masters/ms/
+杜克 Duke ECE MEng 项目主页：https://ece.duke.edu/academics/masters/meng/
+杜克 Duke ECE MEng Requirements PDF：https://duke.app.box.com/s/qlh3fphdp8umwmuu67bqw9jio1cyrarb
+
+约翰霍普金斯 JHU ECE MSE Catalog：https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/electrical-computer-master-science-engineering/
+约翰霍普金斯 JHU Robotics MSE Catalog：https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/robotics-computational-sensing/robotics-master-science-engineering/
+约翰霍普金斯 JHU Robotics MSE 项目主页：https://lcsr.jhu.edu/robotics-masters-program/robotics-mse-program/
+
+西北 Northwestern Electrical Engineering MS：https://www.tgs.northwestern.edu/admission/academic-programs/explore-programs/electrical-engineering.html
+西北 Northwestern Computer Engineering MS：https://www.tgs.northwestern.edu/admission/academic-programs/explore-programs/computer-engineering.html
+西北 Northwestern Robotics MS：https://www.mccormick.northwestern.edu/robotics/
+
+宾大 UPenn Electrical Engineering MSE 学位要求：https://www.ese.upenn.edu/academics/masters/electrical-engineering-program/mse-ee-deg-reqs/
+宾大 UPenn Robotics MSE 课程页：https://www.grasp.upenn.edu/academics/masters-degree-program/curriculum-information/
+宾大 UPenn Systems Engineering MSE 学位要求：https://www.ese.upenn.edu/academics/masters/systems-engineering-program/mse-in-se-degree-requirements/
+
+康奈尔 Cornell ECE MEng Ithaca 要求页：https://www.duffield.cornell.edu/ece/degree/electrical-computer-engineering-meng-ithaca-campus-requirements/
+康奈尔 Cornell ECE MEng Cornell Tech 项目页：https://tech.cornell.edu/programs/masters-programs/master-in-electrical-and-computer-engineering/
+
+哥大 Columbia EE MS 项目主页：https://www.ee.columbia.edu/ms-program-ee
+哥大 Columbia EE MS 目录页：https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/electrical-engineering/graduate-programs/electrical-engineering-ms/
+哥大 Columbia CE MS 项目主页：https://compeng.columbia.edu/compeng-graduate
+哥大 Columbia CE MS 目录页：https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/computer-engineering-program/graduate-programs/computer-engineering-program-ms/
+
+伯克利 Berkeley EECS MEng 项目主页：https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/
+
+莱斯 Rice ECE MECE 要求与课程页：https://eceweb.rice.edu/academics/graduate-programs/mece-program/requirements-courses
+
+UCLA ECE MS 项目主页：https://www.ee.ucla.edu/m-s/
+
+斯坦福 Stanford EE MS 项目主页：https://ee.stanford.edu/academics/graduate-degree-progress
+斯坦福 Stanford EE MS 招生页：https://ee.stanford.edu/admissions/ms
+
+布朗 Brown ECE Sc.M. 项目主页：https://engineering.brown.edu/graduate/programs-and-deadlines/electrical-and-computer-engineering-masters-program
+布朗 Brown ScM Requirements：https://engineering.brown.edu/graduate/programs-guide/scm-requirements
+达特茅斯 Dartmouth ECE MS 项目主页：https://engineering.dartmouth.edu/graduate/ms#areas-options
+达特茅斯 Dartmouth ECE MEng 项目主页：https://engineering.dartmouth.edu/graduate/meng/electrical-computer-on-campus
+华盛顿圣路易斯 WashU EE MS 项目主页：https://ese.washu.edu/academics/graduate-programs/masters-and-certificates/MS-in-Electrical-Engineering.html
+华盛顿圣路易斯 WashU CE MS 项目主页：https://cse.washu.edu/academics/graduate/MS-in-Computer-Engineering.html
+特拉华 Delaware Robotics MS 项目主页：https://me.udel.edu/academics/graduate/msr/
+范德堡 Vanderbilt ECE Graduate Programs：https://engineering.vanderbilt.edu/departments/electrical-computer-engineering/graduate-programs/
+圣母 Notre Dame MSEE：https://ee.nd.edu/graduate/m-s-in-electrical-engineering-msee/
+伦斯勒理工 RPI ECSE Graduate Programs：https://ecse.rpi.edu/academics/graduate-programs
+里海 Lehigh EE MS/MEng：https://engineering.lehigh.edu/ece/graduate/electrical-engineering-ms-meng
+里海 Lehigh CE MS/MEng：https://engineering.lehigh.edu/ece/graduate/computer-engineering-ms-meng
+俄亥俄州立 OSU ECE MS：https://ece.osu.edu/ece-master-science-degree
+俄亥俄州立 OSU ECE MS Requirements：https://ece.osu.edu/master-science-ms-degree-requirements
+罗格斯 Rutgers ECE MS：https://ece.rutgers.edu/admissions/graduate-program/master-science-degree
+塔夫茨 Tufts EE MS：https://engineering.tufts.edu/ece/prospective-students/masters/ms-electrical-engineering
+塔夫茨 Tufts CE MS：https://engineering.tufts.edu/ece/prospective-students/masters/ms-computer-engineering
+UCSB ECE Graduate Studies：https://www.ece.ucsb.edu/grad
+UCSB ECE MS：https://www.ece.ucsb.edu/grad/ms
+UCSB Graduate Division ECE：https://www.graddiv.ucsb.edu/graduate-programs/departments/electrical-computer-engineering
+UF ECE MS Non-thesis：https://ece.ufl.edu/academics/graduate/degree-programs/masters-degree-non-thesis/
+UF ECE MS Thesis：https://ece.ufl.edu/academics/graduate/degree-programs/masters-degree-thesis/
+普林斯顿 Princeton ECE Graduate Program：https://ece.princeton.edu/academics/graduate/program
+MIT EECS 项目页：https://oge.mit.edu/programs/electrical-engineering-and-computer-science/
+哈佛 Harvard EE 项目页：https://seas.harvard.edu/electrical-engineering

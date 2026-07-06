@@ -1,0 +1,1091 @@
+ISE
+Master’s Program Handbook
+2025 – 2026
+1
+
+TABLE OF CONTENTS
+Introduction.....................................................................................................................................4
+Graduate Degrees Offered. ...........................................................................................................5
+Financial Aid at USC. ..................................................................................................................... 6
+Academic Policies ..........................................................................................................................7
+Student Organizations ....................................................................................................................9
+MS Analytics .................................................................................................................................. 10
+MS Engineering Management… ................................................................................................... 11
+MS Health Systems Management Engineering .......................................................................... 12
+MS Industrial and Systems Engineering...................................................................................... 13
+MS Operations Research Engineering .........................................................................................14
+MS Product Development Engineering .......................................................................................15
+Advisor-Approved Electives for MS Programs………………………………………………………………………………..17
+
+2
+
+Disclaimer
+This handbook is produced by the Daniel J. Epstein Department of Industrial and Systems
+Engineering (ISE) as an unofficial guide to graduate studies in the department. The source
+for much of the information in this booklet is the USC Catalogue, the document of authority
+for all students at the University of Southern California. Degree requirements listed in the
+USC Catalogue supersede any information which may be contained in any bulletin of any
+school or department. The USC Catalogue is updated and published annually by the
+University of Southern California.
+Although the University of Southern California, the Viterbi School of Engineering, and the
+Daniel J. Epstein Department of Industrial and Systems Engineering have many resources to
+help each student achieve his/her desired education and training goals, it is ultimately the
+student's responsibility to see that all requirements for graduation are satisfied.
+"Students are expected to be familiar with university policies and to monitor their own
+academic progress. They should keep all records of official grades earned, degree
+requirements met, transfer credits accepted, and actions taken on requests for
+substitutions or exceptions to university policies and regulations." -- USC Catalog
+For additional information on USC or the Daniel J. Epstein Department of Industrial and
+Systems Engineering, go to https://ise.usc.edu/
+
+3
+
+DANIEL J. EPSTEIN DEPARTMENT OF INDUSTRIAL AND SYSTEMS
+ENGINEERING
+In today’s economy, successful graduates need to be skilled in technology, computing and
+business. To obtain these skills, there is no better major than Industrial and Systems
+Engineering (ISE), and there is no better place to study Industrial and Systems Engineering
+than at the University of Southern California (USC).
+USC graduates:
+•
+•
+•
+•
+
+Design and implement information systems to control supply chains, production
+equipment and business operations.
+Lead development projects for computers, software, communication equipment
+and biotech devices
+Manage technology workers in design firms, manufacturers, and service
+organizations, such as hospitals and airlines.
+Create human/computer interfaces and invent technology to meet human needs.
+
+A graduate degree from USC’s ISE Department enables students to enter careers in
+technology management, information systems, consulting, automation and optimization.
+Why USC
+Students come to USC because of our academics and innovative programs, but we also
+offer:
+•
+•
+•
+•
+•
+
+Outstanding, well-paid career opportunities in California’s high-tech economy.
+Personal contact with top-ranked faculty, who are both world-renowned
+researchers and experienced engineers.
+A modern and challenging curriculum emphasizing information technology.
+Top students who are attracted to Los Angeles’ international economy from around
+the world.
+A range of degree and course options at the graduate level, with choices for
+students coming from any engineering or technical major.
+
+Students also select USC because of its leadership in ISE research. Our faculty works with
+the National Science Foundation, the Integrated Media Systems Center (based at USC)
+and private companies, to stay at the forefront of innovation in software, control
+systems and engineering management.
+USC’s research leadership is reflected in our faculty’s membership in the prestigious
+National Academy of Engineering, publications in leading journals and patents for
+innovative computer-based technologies.
+4
+
+GRADUATE DEGREES OFFERED
+Master of Science in Analytics is a program designed to satisfy the growing demand for
+professionals equipped with significant training in the fundamentals of analytics for solving
+engineering and management problems in today’s data-driven world. Analytics is a
+multidisciplinary field that applies data analysis to engineering management and
+enterprise processes.
+Master of Science in Engineering Management is a program that prepares students to
+lead technology projects and manage technology-driven organizations and companies
+delivering a wide array of goods and services. The degree is especially well suited for
+students who have several years of work experience and are preparing to move into
+engineering management.
+Master of Science in Health Systems Management Engineering is for students who are
+interested in operations management and healthcare applications, and whose career
+objectives lead to increasing technical management responsibilities in large healthcare
+organizations, particularly hospitals.
+Master of Science in Industrial and Systems Engineering prepares students to become
+technical leaders in industrial engineering by using qualitative and quantitative techniques
+to improve systems. The ISE program prepares students to become skilled experts,
+managers, decision makers and researchers for design and optimization in complex and
+uncertain environments. The ISE Department’s research and education benefit society
+through novel systems for healthcare, manufacturing, transportation and logistics,
+security, e-commerce, and the environment.
+Master of Science in Operations Research Engineering trains students in solving
+business problems with computers and mathematics. This program prepares students to
+build mathematical models and algorithms to make decisions.
+Master of Science in Product Development Engineering is a joint program with the
+Aerospace and Mechanical Engineering Department that prepares engineers to become
+leaders in engineering design and new product development. Students will choose either
+the Management Specialization or Technology Specialization.
+
+5
+
+Doctor of Philosophy (Ph.D.)
+The Ph.D. program prepares students for leadership in Industrial and Systems Engineering
+research and university-level education. In addition to meeting course requirements,
+students spend one or more years on Ph.D. dissertation research. Policies for the Ph.D. are
+described in a separate publication available from the department.
+Ph.D. applications are individually reviewed by faculty, who consider academic preparation,
+grade point average, test scores, work experience, statements of purpose and letters of
+recommendation. Applicants must generally meet the minimum standards, though
+satisfaction of these standards does not guarantee admission. However, conditional
+admission is sometimes granted when students are deficient in one area but compensate
+in others. Therefore, students are still encouraged to apply if some, but not all,
+qualifications are satisfied.
+For more information, please go to https://gradadm.usc.edu/our-programs/viterbi-schoolof-engineering/
+
+FINANCIAL AID
+Financial assistance is administered on various levels at USC:
+University Level (via The Graduate School). The Graduate School publishes the Resources
+for Graduate Students. Fellowships are available. The completed Graduate Fellowship
+Application Form should be returned to the Department for processing. The Graduate
+School also accepts department nominations for scholarships.
+School Level (via the Viterbi School of Engineering). The Dean and the Director of Graduate
+Studies of the School of Engineering review information from University Admissions to make
+awards to qualified candidates.
+Graduate School aid and Viterbi School of Engineering aid are primarily awarded to
+American citizens. Applicants interested in financial assistance should have qualifications
+well beyond the minimum requirements for admission.
+
+6
+
+ACADEMIC POLICIES
+Advisement
+All graduate students in the ISE Department are expected to meet with their advisors at
+least once per semester to review course plans and to ensure satisfactory degree progress.
+Course Requirements
+All students should refer to the USC Catalog for their course requirements. Please make
+sure you are looking at the Catalog for the year you were admitted to the program. Past
+catalog years may have different requirements which do not apply to your catalog year.
+Condition of Admission
+Students should successfully complete their conditions of admission as soon as possible
+in their course of study to prevent registration holds and progress delays.
+Transfer Credit
+The faculty of a degree program may establish limits on the number of transfer credits that
+are stricter than those of the university, which are as follows:
+• Courses used toward a degree completed elsewhere may not be applied toward a
+master's degree at USC.
+• If courses were not used toward a completed degree, the maximum number of
+transfer credits that may be applied towards a 28-unit master’s degree, subject to
+departmental approval, is 4 units. Students should arrange for any transfer of
+credits during the first semester of enrollment at USC.
+Limited Status Enrollment
+A maximum of 12 units of courses taken as a Limited Status Student may be applied to a
+degree.
+Time Limit
+No coursework that is older than seven years may be applied toward a master's degree.
+The master's degree must be completed within five years of taking the first course applied
+to the program.
+Residency
+Students must complete a minimum of 20 units at USC. The last four units of courses must
+be taken at USC.
+Grade Point Average Requirement
+Students must maintain an overall 3.0 GPA on 400-level and above work attempted at USC
+beyond the bachelor's degree to graduate. A minimum grade of C (2.0) is required in a course
+to receive graduate credit. Transfer units count as credit (CR) and are not calculated in the
+GPA.
+7
+
+Graduation
+Students should submit an application to graduate in the myViterbi portal. (The
+department will email the instructions each semester.) This will alert the School and the
+University that you are initiating the degree check process, verifying that all academic and
+administrative requirements are met.
+Leave of Absence
+A student who must suspend his/her studies for a semester or more must file for a leave of
+absence with the ISE Department. Students should contact their advisor and withdraw
+from classes before the last day to drop classes without a mark of W (published in the
+Schedule of Classes). Students who miss the deadline for a leave of absence may still
+withdraw from classes with a mark of W but must apply for readmission to the program.
+
+ACADEMIC HONORS
+
+Academic Awards
+The Department and the Viterbi School of Engineering may, from time to time, nominate
+students for awards and scholarships. If you feel you may qualify for any award or
+recognition based on academic performance, leadership, extracurricular activities, or any
+combination of the above, please let the department know. We are always happy to give
+students the recognition they deserve.
+
+8
+
+STUDENT ORGANIZATIONS
+To build character and leadership skills, and to acknowledge academic achievement, the
+ISE Department supports the activities of student organizations which are run by ISE
+students to further academic and professional goals. Each organization has an ISE faculty
+or staff member as an advisor. The quality of each of these organizations is directly
+affected by the quality of its student members, and particularly its officers. Your active
+participation is, therefore, encouraged.
+Student Chapter of the Institute of Industrial Engineers
+The Institute of Industrial Engineers is a professional organization for industrial
+engineers. Its mission is to promote and foster industrial engineering as a profession.
+Reduced membership dues are available to student members.
+Alpha Pi Mu
+Alpha Pi Mu is an industrial engineering honors society. Its purpose is to recognize high
+academic achievement by juniors, seniors, and graduate students in industrial
+engineering. Membership is by invitation only.
+Engineering Management Student Association EMSA
+EMSA was established in 2012 to increase the interaction between industry, alumni,
+students, and professors. The organization is free to all USC students.
+Omega Rho
+Omega Rho is the operations research honors society. Its purpose is to recognize high
+academic achievement by undergraduate and graduate students in operations research.
+Membership is by invitation only.
+INFORMS
+The INFORMS USC Student Chapter is a graduate student-run organization located at the
+department of Industrial and Systems Engineering. Our goal is to provide the operations
+research and management science community at USC support through regular events,
+including student presentations, journal clubs, distinguished speakers, and coffee hours.
+Please contact us if you're interested in giving a talk, developing a workshop or joining our
+chapter.
+Industrial and Systems Engineering Analytics Student Association (IASA)
+IASA is a student organization created for USC’s Analytics program. IASA promotes
+connection, growth, and collaboration among students, alumni, and faculty through a variety
+of academic and professional development events. Membership is limited to students in the
+Analytics program.
+
+9
+
+MS ANALYTICS DEGREE REQUIREMENTS
+Core Courses (12 units)
+ISE 529 Predictive Analytics Units: 4
+ISE 530 Optimization Methods for Analytics Units: 4
+ISE 558 Fundamentals of Data Engineering Units: 4
+Group A (4 units)
+Select one course.
+ISE 533 Integrative Analytics Units: 4
+ISE 534 Data Analytics Consulting Units: 4
+ISE 580 Performance Analysis with Simulation Units: 4 *
+Group B (4 units)
+Select one course.
+ISE 525 Design of Experiments Units: 4
+ISE 535 Data Mining Units: 4
+ISE 537 Financial Analytics Units: 4
+ISE 538 Markov Models for Performance Analysis Units: 4
+ISE 540 Text Analytics Units: 4
+ISE 543 Enterprise Business Intelligence and Systems Analytics Units: 4
+ISE 562 Decision Analysis Units: 4
+ISE 580 Performance Analysis with Simulation Units: 4 *
+Note
+*May count toward Group A or Group B but not both.
+Advisor-approved Electives (8 units)
+Total units: 28
+
+10
+
+MS ENGINEERING MANAGEMENT DEGREE REQUIREMENTS
+Required Courses
+ISE 500 Statistics for Engineering Managers Units: 4
+ISE 515 Engineering Project Management Units: 4
+ISE 544 Leading and Managing Engineering Teams Units: 4
+ISE 561 Economic Analysis of Engineering Projects Units: 4
+Technology Course
+Select one:
+CE 576 Invention and Technology Development Units: 3
+ISE 445 Principles and Practices of Global Innovation Units: 4
+ISE 501 Innovative Conceptual Design for New Product Development Units: 4
+ISE 585 Strategic Management of Technology and Innovation Units: 4
+Advisor-Approved electives (8 units)
+Total units: 28
+
+11
+
+MS HEALTH SYSTEMS MANAGEMENT ENGINEERING DEGREE
+REQUIREMENTS
+Required Courses (12 Units)
+ISE 508 Health Care Operations Improvement Units: 4
+ISE 509 Practicum in Health Care Systems Units: 4
+PM 504 Quality in Health Care Units: 4
+Health Systems electives (12 units)
+ISE 503 Health Analytics Units: 4
+ISE 504 Management of Change in Health Care Systems Units: 4
+ISE 505 Modeling for Health Policy and Medical Decision Making Units: 4
+ISE 506 Lean Operations Units: 4
+ISE 515 Engineering Project Management Units: 4
+ISE 544 Leading and Managing Engineering Teams Units: 4
+ISE 561 Economic Analysis of Engineering Projects Units: 4
+ISE 564 Organizational Performance Analysis Units: 4
+ISE 570 Human Factors in Engineering Units: 4
+ISE 580 Performance Analysis with Simulation Units: 4
+PM 508 Health Service Delivery in the U.S. Units: 4
+Advisor-Approved Electives (4 Units)
+Total Units: 28
+
+12
+
+MS INDUSTRIAL AND SYSTEMS ENGINEERING DEGREE REQUIREMENTS
+Required Courses (12 units)
+ISE 513 Logistics and Inventory Systems Units: 4
+ISE 514 Advanced Production Planning and Scheduling Units: 4
+ISE 515 Engineering Project Management Units: 4
+Group A Quantitative Techniques (4 units required)
+Select one course
+ISE 530 Optimization Methods for Analytics Units: 4
+ISE 536 Linear Programming and Extensions Units: 4
+ISE 538 Markov Models for Performance Analysis Units: 4
+ISE 580 Performance Analysis with Simulation Units: 4
+ISE 539 Stochastic Elements of Simulation Units: 4
+Group B Quality and Operations (4 units required)
+Select one course
+ISE 506 Lean Operations Units: 4
+ISE 525 Design of Experiments Units: 4
+ISE 527 Quality Management for Engineers Units: 4
+ISE 583 Enterprise Wide Information Systems Units: 4
+Group C Engineering Management (4 units required)
+Select one course
+ISE 561 Economic Analysis of Engineering Projects Units: 4
+ISE 562 Decision Analysis Units: 4
+ISE 564 Organizational Performance Analysis Units: 4
+ISE 570 Human Factors in Engineering Units: 4
+Advisor approved electives (4 units)
+Total Units 28
+
+13
+
+MS OPERATIONS RESEARCH ENGINEERING DEGREE REQUIREMENTS
+Required Courses: 20 units
+ISE 536 Linear Programming and Extensions Units: 4
+ISE 538 Markov Models for Performance Analysis Units: 4
+ISE 580 Performance Analysis with Simulation Units: 4
+ISE 583 Enterprise Wide Information Systems Units: 4
+ISE 632 Network Flows and Combinatorial Optimization Units: 4
+Select one from the following: 4 units
+ISE 513 Logistics and Inventory Systems Units: 4
+ISE 514 Advanced Production Planning and Scheduling Units: 4
+ISE 520 Optimization Theory and Algorithms: Numerical Optimization Units: 4
+ISE 525 Design of Experiments Units: 4
+ISE 539 Stochastic Elements of Simulation Units: 4
+ISE 562 Decision Analysis Units: 4
+ISE 563 Financial Engineering Units: 4
+ISE 576 Industrial Ecology Units: 4
+Advisor-Approved Elective: 4 units
+Total units: 28
+
+14
+
+MS PRODUCT DEVELOPMENT ENGINEERING DEGREE REQUIREMENTS
+Core courses for both Management and Technology Specializations (8 units)
+ISE 445 Principles and Practices of Global Innovation Units: 4
+ISE 501 Innovative Conceptual Design for New Product Development Units: 4
+Management Specialization Required Courses (8 units)
+ISE 515 Engineering Project Management Units: 4
+ISE 544 Leading and Managing Engineering Teams Units: 4 OR
+ISE 585 Strategic Management of Technology and Innovation Units: 4 OR
+ISE 588 Management of Rapid Product Development Units: 4
+Management Specialization Technical Electives (8 units)
+Select two courses from the list
+AME 504 Mechatronics Systems Engineering Units: 4
+AME 510 Advanced Computational Design and Manufacturing Units: 4
+ISE 514 Advanced Production Planning and Scheduling Units: 4
+ISE 525 Design of Experiments Units: 4
+ISE 527 Quality Management for Engineers Units: 4
+ISE 544 Leading and Managing Engineering Teams Units: 4 *
+ISE 561 Economic Analysis of Engineering Projects Units: 4
+ISE 562 Decision Analysis Units: 4
+ISE 580 Performance Analysis with Simulation Units: 4
+ISE 583 Enterprise Wide Information Systems Units: 4
+ISE 585 Strategic Management of Technology and Innovation Units: 4
+ISE 588 Management of Rapid Product Development Units: 4*
+ISE 610 Advanced Design of Experiments and Quality Engineering Units: 4
+Note: *Choose one that is not included as a specialization required course.
+Management Specialization General Electives Suggested (4 units)
+Advisor approved electives must be upper-division 400- or 500-level courses. Up to 4 units
+can be transferred from other institutions.
+CSCI 567 Machine Learning Units: 4
+DSCI 552 Machine Learning for Data Science Units: 4
+ISE 460 Engineering Decisions, Economics and Ethics Units: 4
+ISE 470 Human/Computer Interface Design Units: 4
+ISE 506 Lean Operations Units: 4
+ISE 520 Optimization Theory and Algorithms: Numerical Optimization Units: 4
+ISE 529 Predictive Analytics Units: 4
+ISE 530 Optimization Methods for Analytics Units: 4
+ISE 633 Large Scale Optimization and Machine Learning Units: 4
+15
+
+PPD 587 Risk Analysis Units: 4
+Technology Specialization Required Courses (7-8 units)
+AME 503 Advanced Mechanical Design Units: 3
+AME 525 Engineering Analysis Units: 4 OR
+AME 526 Introduction to Mathematical Methods in Engineering II Units: 4 OR
+AME 540 Probability and Statistics in Engineering Science Units: 4
+Technology Specialization Technical Electives (6-8 units)
+AME 408 Computer-Aided Design of Mechanical Systems Units: 3
+AME 410 Engineering Design Theory and Methodology Units: 3
+AME 502 Modern Topics in Aerospace Design Units: 3
+AME 505 Engineering Information Modeling Units: 3
+AME 510 Advanced Computational Design and Manufacturing Units: 4
+AME 525 Engineering Analysis Units: 4 *
+AME 526 Introduction to Mathematical Methods in Engineering II Units: 4 *
+AME 527 Elements of Vehicle and Energy Systems Design Units: 3
+AME 544 Computer Control of Mechanical Systems Units: 3
+AME 546 Design for Manufacturing Assembly Units: 4
+AME 547 Foundations for Manufacturing Automation Units: 4
+ASTE 523 Design of Low Cost Space Missions Units: 3
+CE 576 Invention and Technology Development Units: 3
+ISE 567 Collaborative Engineering Principles and Practice Units: 3
+ISE 576 Industrial Ecology Units: 4
+ISE 585 Strategic Management of Technology and Innovation Units: 4
+MASC 551 Mechanical Behavior of Engineering Materials Units: 4
+MASC 583 Materials Selection Units: 4
+SAE 549 Systems Architecting Units: 3
+Note: *Choose one that is not included as a specialization required course.
+Technology Specialization General Electives Suggested (4-7 units)
+Advisor approved electives must be upper-division 400- or 500-level courses. Up to 4 units
+can be transferred from other institutions.
+AME 481 Aircraft Design Units: 4
+AME 577 Survey of Energy and Power for a Sustainable Future Units: 4
+AME 578 Modern Alternative Energy Conversion Devices Units: 3
+ASTE 520 Spacecraft System Design Units: 3
+CE 529 Finite Element Analysis Units: 4
+CE 543 Structural Instability and Failure Units: 4
+CE 550 Computer-Aided Engineering Units: 3
+CE 551 Computer-Aided Engineering Project Units: 3
+Total Units: 28
+
+16
+
+NON-ISE ADVISOR APPROVED ELECTIVES AND PROGRAMS FOR WHICH THEY ARE APPROVED
+NLTX
+
+EMT
+
+AME
+AME 403 Stress Analysis
+AME 407 Computer Graphics for Mechanical Engineers
+AME 408 Computer-Aided Design of Mechanical Systems
+AME 451 Linear Control Systems I
+AME 481 Aircraft Design
+AME 501 Spacecraft System Design
+AME 503 Advanced Mechanical Design
+AME 504 Mechatronics Systems Engineering
+AME 510 Advanced Computational Design and Manufacturing
+AME 514 Applications of Combustion and Reacting Flows
+AME 516ab Flight Vehicle Stability and Control
+AME 528a Finite Element Analysis
+AME 528b Finite Element Analysis
+AME 529 Aircraft Structures Analysis
+AME 541 Linear Control Systems II
+AME 542 Nonlinear Control Systems
+AME 543 Stability of Structures
+AME 544 Computer Control of Mechanical Systems
+AME 546 Basic Aeroelasticity
+AME 548 Analytical Methods in Robotics
+AME 554 Additive Manufacturing Technologies
+AME 556 Robot Dynamics and Control
+AME 563 Computational Design of Machine Components
+AME 577 Survey of Energy and Power for a Sustainable Future
+AME 578 Modern Alternative Energy Conversion Device
+ASTE
+ASTE 520 Spacecraft System Design
+BME
+BME 527 Integration of Medical Imaging Systems
+BME 528 Medical Diagnostics, Therapeutics and Informatics Applications
+
+HSME
+
+ISE
+
+ORE
+
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+
+ORE
+PDE
+PDE
+PDE
+PDE
+HSME
+HSME
+
+BAEP
+BAEP 450 Fundamentals of Entrepreneurship
+BAEP 476 Green Entrepreneurship
+BAEP-553 Cases in New Venture Management
+BAEP 551 Introduction to New Ventures
+BAEP 554 Venture Initiation
+BAEP-555 Founders Dilemmas: Anticipate and Avoid Startup Pitfalls
+BAEP 556 Technology Feasibility
+BAEP 557 Technology Commercialization
+BAEP 558 The Entrepreneurial Advisor: Problem Solving for Early-Stage Companies
+BAEP 559 Investing in New Ventures
+BAEP 562 Entrepreneurship in eCommerce
+BAEP 563 Corporate Entrepreneurship
+BAEP 565 Digital Playbook for Entrepreneurs: Creating a Tech Startup
+BAEP 572 Performance Mindset for Business
+BAEP 577 The Entrepreneurial CEO: The Real World of Leading Startups
+CE
+CE 404 Business and Intellectual Property Law for Engineers
+CE 412 Construction Contracts and Law
+CE 460 Construction Engineering
+CE 461Construction Estimating
+CE 462 Construction Methods and Equipment
+CE 469 Sustainable Design and Construction
+CE 471 Principles of Transportation Engineering
+CE 501 Construction Practices
+CE 502 Construction Accounting, Finance and Strategy
+CE 506 Heavy Construction Estimating
+
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+
+ISE
+PDE
+
+ISE
+
+ISE
+ISE
+ISE
+ISE
+ISE
+EMT
+
+EMT
+
+ISE
+ISE
+ISE
+ISE
+
+PDE
+PDE
+
+CE 550 Computer-Aided Engineering
+CE 551 Computer-Aided Engineering Project
+CE 552 Managing and Financing Public Engineering Works
+CE 554 Risk and Reliability Analysis for Civil Infrastructure Systems
+CE 558 International Construction and Engineering
+CE 576 Invention and Technology Development
+CE 579 Introduction to Transportation Planning Law
+CE 585 Traffic Engineering and Control
+CE 589 Port Engineering: Planning and Operational Analysis
+CE 633 Urban Transportation Planning and Management
+CE 634 Institutional and Policy Issues in Transportation
+CSCI
+Students interested in taking courses in Computer Science (CSCI) must make an
+appointment with their assigned ISE academic advisor via Advise USC to inquire
+about approval.
+DSCI
+DSCI 510 Principles of Programming for Data Science
+DSCI 519 Foundations & Policy for Information Security
+DSCI 549 Introduction to Computational Thinking and Data Science
+DSCI 551 Foundations of Data Management
+DSCI 552 Machine Learning for Data Science
+DSCI 553 Foundations & Applications of Data Mining
+DSCI 554 Data Visualization
+DSO
+DSO 427 Spreadsheet Modeling for Business Insights
+DSO 431 Digital Innovation as Competitive Advantage
+DSO 433 Designing Digital Processes and User Experiences
+DSO 454 Deep Learning for AI and Business Applications
+DSO 482 Supply Chain Management
+DSO 505 Sustainable Supply Chains
+DSO 506 Sourcing and Supplier Management
+DSO 510 Business Analytics Units
+DSO 516 Probability and Data Modeling
+DSO 520 Logistics Management
+DSO 522 Applied Time Series Analysis for Forecasting
+DSO 528 Blended Data Business Analytics for Efficient Decisions
+DSO 529 Advanced Regression Analysis
+DSO 530 Applied Modern Statistical Learning Methods
+DSO 531 Digital Foundations for Business Innovation
+DSO 534 Discrete-Event Simulation for Process Management
+DSO 536 Monte Carlo Simulation and Decision Models
+DSO 545 Statistical Computing and Data Visualization
+DSO 547 Spreadsheet Modeling for Business Insights
+DSO 548 Emerging Technologies in Supply Chain Management
+DSO 549 Application of Lean Six Sigma
+DSO 551 Digital Transformation in the Global Enterprise
+DSO 552 SQL Databases for Business Analysts
+DSO 554 Digital Strategies for Sustainability in Global Markets
+DSO 556 Business Models for Digital Platforms
+DSO 559 Introduction to Python for Business Analytics
+DSO 562 Fraud Analytics
+DSO 565 Supply Chain Analytics
+DSO 569 Deep Learning for Business Applications
+DSO 570 The Analytics Edge: Data, Models, and Effective Decisions
+DSO 572 Strategies for Digital Analytics
+DSO 573 Data Analytics Driven Dynamic Strategy and Execution
+DSO 574 Using Big Data: Challenges and Opportunities
+DSO 575 Driving Business Transformation with GenAI and ML
+DSO 578 Fundamentals of Sports Performance Analytics
+DSO 581 Supply Chain Management
+
+ISE
+ISE
+ISE
+ISE
+ISE
+
+PDE
+PDE
+
+EMT
+
+NLTX
+NLTX
+
+EMT
+
+ISE
+ISE
+ISE
+ISE
+ISE
+
+EMT
+
+ISE
+
+ORE
+
+PDE
+
+ISE
+NLTX
+NLTX
+NLTX
+NLTX
+
+EMT
+
+ISE
+ISE
+ISE
+NLTX
+ISE
+
+NLTX
+
+NLTX
+NLTX
+
+NLTX
+
+NLTX
+NLTX
+
+NLTX
+NLTX
+
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+
+HSME
+HSME
+
+ISE
+ISE
+
+ISE
+
+ISE
+
+PDE
+
+ISE
+ISE
+PDE
+
+ISE
+
+ISE
+ISE
+
+HSME
+
+ISE
+
+PDE
+
+DSO 582 Service Management: Economics and Operations
+DSO 583 Operations Consulting
+DSO 584 Global Operations Management
+EE
+EE 454L Introduction to Systems Design Using Microprocessors
+EE 472 Intro to Lasers and Laser Systems
+EE 479 Intro to Integrated Circuit Design
+EE 482 Linear Control Systems
+EE 504L Solid State Processing & IC Laboratory
+EE 536 Integrated Circuit Analysis & Design
+EE 537 Survey of Modern Solid State Devices
+EE 543abL Digital Control
+EE 544 Optimal Control
+EE 545 Introduction to Robotics
+EE 546L Basic Robotics Laboratory
+EE 547 Software Methods in Robotics
+EE 554 Real Time Computer Systems
+EE 559 Mathematical Pattern Recognition
+EE 560L Advanced Microcomputer-Based Design
+EE 562a Random Processing in Engineering
+EE 569 Intro to Digital Image Processing
+EE 584 Chaotic Systems
+EE 585 Linear Systems Theory
+EE 587 Nonlinear Control Systems
+EE 588 Linear Quadratic Control
+EE 593 Multivariable Control
+EE 657 Parallel Processing
+EE 666 Data Communication
+EE 680 Computer Aided Design of Digital Systems
+EE 684 Optimum Stochastic Control
+EE 685 Parameter Identification & Adaptive Control
+ENE
+ENE 502 Environmental and Regulatory Compliance
+ENE 505 Energy and the Environment
+ENE 506 Ecology for Environmental Engineers
+ENE 510 Water Quality Management and Practice
+FBE
+FBE 527 Entrepreneurial Finance: Financial Management for Developing Firms
+FBE 529: Financial Analysis and Valuation
+FBE 543 Forecasting and Risk Analysis
+FBE 559: Management of Financial Risk
+GSBA
+GSBA 504a Operations Management
+GSBA 504b Operations Management
+GSBA 506a Applied Managerial Statistics
+GSBA 506b Applied Managerial Statistics
+GSBA 520 Business Fundamentals for Non-Business Professionals
+GSBA 545 Data Driven Decision Making
+GSBA 524 Data Science for Business
+GSBA 534 Operations Management
+GSBA 548 Corporate Finance
+GSBA 561 Evaluating Market Performance
+GSBA 562 Management of Operations
+GSBA 563 Technology and Information Systems Management
+MATH
+MATH 502a Numerical Analysis
+MATH 547 Mathematical Foundations of Statistical Learning Theory
+MASC
+MASC 472 Polymer Science and Engineering
+MASC 475 Physical Properties of Polymers
+
+EMT
+EMT
+EMT
+
+ISE
+
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+EMT
+ISE
+ISE
+ISE
+EMT
+
+ISE
+ISE
+
+PDE
+
+NLTX
+ISE
+EMT
+EMT
+EMT
+EMT
+ISE
+
+NLTX
+NLTX
+NLTX
+NLTX
+
+EMT
+EMT
+EMT
+EMT
+
+PDE
+ISE
+PDE
+
+NLTX
+NLTX
+PDE
+PDE
+
+MASC 511 Materials Preparation
+MASC 513 Multilayered Materials & Properties
+MASC 518 Semiconductor Materials for Devices
+MASC 560 Fatigue and Fracture
+MASC 583 Materials Selection
+MASC 584 Fracture Mechanics and Mechanisms
+MKT
+MKT 512 Customer Insights and Analysis
+MKT 530 New Product Development
+MKT 543 Market Demand and Sales Forecasting
+MKT 551 From Strategy to Execution: User Experience (UX) and Design Units
+MKT 566 Decision Making Using Marketing Analytics
+MOR
+MOR 458 AI Technology strategic management
+MOR 462: Management Consulting
+MOR 530 Strategic Leadership in Product Management
+MOR 531 Applied Product Management
+MOR 542 Strategic Issues for Global Business
+MOR 544 Fundamentals of Crisis Management
+MOR 548 Competitive Advantage Through People
+MOR 555 Designing High Performance Organizations
+MOR 557 Strategy and Organization Consulting
+MOR 559 Strategic Renewal and Transformation
+MOR 560 Managerial Judgement and Decision Making
+MOR-561 Strategies in High-Tech Businesses
+MOR 562 Strategic Choice and Valuation Analysis
+MOR-564 Strategic Innovation: Creating New Markets, Business Models and Growth
+MOR 565 Alliances and Coopertive Strategy
+MOR 566 Environmental Sustainability and Competitive Advantage
+MOR 569 Negotiation and Deal-Making
+MOR 572 Leadership and Self-Management
+MOR 588 Corporate Strategy and Competitive Dynamics
+
+PDE
+PDE
+PDE
+PDE
+PDE
+PDE
+
+NLTX
+NLTX
+
+EMT
+EMT
+
+ISE
+
+EMT
+NLTX
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+
+NLTX
+
+ISE
+
+PDE
+
+ISE
+ISE
+ISE
+
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+EMT
+
+PDE
+ISE
+ISE
+PDE
+ISE
+ISE
+
+EMT
+
+PM
+PM 500 Foundations of Health Behavior
+PM 502 Foundations of Public Health
+PM 519 Health Disparities in the U.S.
+PM 526 Communications in Public Health
+PM 547 Public Health Policy and Politics
+
+HSME
+HSME
+HSME
+HSME
+HSME
+
+PPD
+PPD 501ab Economics for Policy, Planning and Development
+PPD 506 Introduction to Microeconomics Applications in Health
+PPD 509 Problems and Issues in the Health Field
+PPD 510ab Financial Management of Health Services
+PPD 511 Health Information Systems
+PPD 513 Legal Issues in Health Care Delivery
+PPD 514 Economic Concepts Applied to Health
+PPD 516 Financial Accounting for Health Care Organizations
+PPD 518 Quality of Care Concepts
+PPD 558 Multivariate Statistical Analysis
+PPD 587 Risk Analysis (crosslisted as ISE 587)
+PPD 634 Institutional and Policy Issues in Transportation
+PPDE
+PPDE 612 Consulting in Healthcare Organizations
+SAE
+SAE 541 Systems Engineering Theory and Practice
+SAE 546 Engineering Resilient Systems and System-of Systems
+SAE 547 Model Based Systems Architecting and Engineering
+SAE 548 System/System-of-Systems Integration and Communication
+SAE 549 Systems Architecting
+SAE 550 Systems Architecting and the Political Process
+
+ISE
+HSME
+HSME
+
+HSME
+HSME
+
+ISE
+ISE
+ISE
+ISE
+ISE
+ISE
+ISE
+ISE
+ISE
+
+EMT
+
+PDE
+
+HSME
+NLTX
+
+EMT
+
+NLTX
+
+EMT
+EMT
+EMT
+
+HSME
+
+ISE
+
+ISE
+
+ORE
+
+PDE
+PDE
+PDE
+PDE
+PDE
+
+SAE 574 Net-Centric Systems Architecting and Engineering
+TAC
+TAC 404 Advanced Front-End Web Development
+TAC 422 Configuring Enterprise Resource Planning Systems
+TAC 454x Enterprise Resource Planning, Design, and Implementation
+TAC 449 Applications of Machine Learning
+TAC 457 Network Security
+TAC 460 Web Application Project
+TAC 466 Building the High-Tech Startup
+TAC 482 Engineering Database Applications
+TAC 486 Securing and Auditing Enterprise Resource Planning Systems
+TAC 487 Enterprise Data Analytics
+
+ISE
+ISE
+ISE
+ISE
+NLTX
+ISE
+ISE
+EMT
+ISE
+ISE
+ISE
+
+

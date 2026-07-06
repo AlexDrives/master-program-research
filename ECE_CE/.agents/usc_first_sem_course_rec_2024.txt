@@ -1,0 +1,122 @@
+Fall 2024
+USC Ming Hsieh Department of Electrical and Computer Engineering
+1st Semester Course Recommendations
+The following lists are recommended courses in the first semester by major/degree
+programs. The number in parentheses indicates the units per class.
+We recommend no more than two courses (8.0 units) in the first semester
+with the exception of the MS in ECE-Machine Learning and Data Science and
+MS in Financial Engineering degree majors.
+
+MSEE-General Degree Focus Areas Only
+Communications
+
+EE 450 (4), EE 503 (4), EE 510 (4)
+
+Computer Architecture
+
+EE 450 (4), EE 451 (4), EE 457 (4), EE 477 (4)
+
+Computer Networks
+
+EE 450 (4), EE 457 (4), EE 503 (4)
+
+Controls
+
+EE 482 (3), EE 503 (4), EE 510 (4)
+
+Data Science
+
+EE 503 (4), EE 510 (4), EE 483 (4)
+
+Electric Power Systems
+
+EE 443 (4), EE 444 (4)
+
+Electromagnetics, Optics, Photonics
+
+EE 471 (4), EE 572 (4)
+
+Signal and Image Processing
+
+EE 483 (4), EE 503 (4), EE 510 (4)
+
+VLSI/CAD
+
+EE 457 (4), EE 477 (4)
+
+Analog, Mixed-Signal, and Radiofreq. EE 477 (4), EE 536a (4)
+
+MSEE-Computer Architecture Degree
+EE 450 (4), EE 451 (4), EE 457 (4), EE 477 (4)
+
+MS-Computer Engineering (CENG) Degree
+EE 450 (4), EE 451 (4) EE 457 (4), EE 477 (4), EE 503 (4)
+
+MSEE-Computer Networks Degree
+EE 450 (4), EE 457 (4), EE 503 (4)
+
+MS in ECE-Machine Learning and Data Science Degree
+EE 503 (4), EE 510 (4), plus EE 538 (2) or EE 541 (2)
+
+MSEE-Electric Power Degree
+EE 443 (4), EE 444 (4)
+
+MSEE-VLSI Design Degree
+EE 457 (4), EE 477 (4), EE 536a (4)
+
+1
+
+MSEE-Wireless Networks Degree
+EE 450 (Placement Exam*), EE 503 (4), EE 483 (4)
+
+MS-Financial Engineering (MS-FINE) Degree
+EE 503 (4), EE 518 (4) and/or GSBA 548 (3)
+
+MS-Quantum Information Science
+EE 520 (4), EE 510 (4)
+
+MS-ECE (Analog, Mixed-Signal and Radio-frequency Integrated Circuits)
+EE 536a (4), EE 477** (4)
+
+MS-Applied Physics
+AME 508 (4), plus EE 530 (4) or AME 509 (4)
+
+MS-Electrical Engineering/Engineering Management (EEMG) Dual Degree
+Follow the MSEE-general degree and ISE degree requirements per catalogue policy.
+Please contact your academic advisor for specific details.
+
+Notes:
+•
+
+Full-time enrollment for MS students at USC is a minimum of 8.0 units (2-3 courses).
+
+•
+
+Placement Exams are available for the following courses: EE 450, EE 457, EE 477.
+
+•
+
+EE 590 (Directed Research) and EE 598 are not allowed in your first semester.
+
+•
+
+*Students enrolled in the MSEE-Wireless Networks degree program must pass the
+EE 450 placement exam or register for EE 450. Please note that if you register for
+EE 450, this course will not count toward your degree.
+
+•
+
+No CSCI courses in the 1st semester: As a first semester ECE graduate student, you
+are not allowed to register in a CSCI course. No D-clearance will be granted to you.
+Only continuing ECE students (2nd semester or above) may request D-clearance
+from the CSCI Department.
+
+•
+
+**Students enrolled in the MS-ECE (Analog, Mixed-Signal...) degree program can
+opt to take the EE 477 placement exam, and if passed, then would register for EE
+577a instead.
+
+2
+
+
