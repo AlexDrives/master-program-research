@@ -1,49 +1,29 @@
-# 第二张表 CS/AIE 打勾项目清单
+# CS&AIE 打勾项目清单（2026 CS 前 20）
 
-> 来源：`Alex刘俊豪-2027 快捷-ECE&CE&CS&AIE初选.xlsx` 第二张表，列 B 包含 `√`、`√，选Robotics 方向` 等标记的项目。抽取时间：2026-07-05。
+> 来源：`Alex刘俊豪-2027 快捷-ECE&CE&CS&AIE初选.xlsx` 的新版 `CS&AIE` 工作表。
+> 筛选：第 B 列打勾，且第 G 列 `2026 US News 专业排名 CS` 不大于 20；提取时间：2026-07-13。
 
-## 项目清单
+| Excel 行 | 2026 CS 排名 | 学校 | 项目 |
+|---:|---:|---|---|
+| 23 | 7 | Cornell University | M.Eng. in Computer Science (Ithaca) |
+| 24 | 7 | Cornell University | M.Eng. in Computer Science (Cornell Tech) |
+| 25 | 15 | Columbia University | M.S. in Computer Science |
+| 26 | 15 | Columbia University | Master of Science in Artificial Intelligence |
+| 34 | 15 | University of California, Los Angeles | Master of Engineering - Robotics & Autonomous Systems |
+| 59 | 1 | Carnegie Mellon University | M.S. in Information Networking |
+| 71 | 1 | Carnegie Mellon University | MS in Artificial Intelligence Engineering - ECE |
+| 105 | 5 | University of Illinois Urbana-Champaign | Master of Computer Science in Urbana-Champaign |
+| 106 | 5 | University of Illinois Urbana-Champaign | Master of Computer Science in Chicago |
 
-| Excel 行 | 学校 | 项目 |
-|---:|---|---|
-| 14 | Carnegie Mellon University | Master of Science in Computer Vision (MSCV) |
-| 15 | Carnegie Mellon University | Master of Science in Robotics |
-| 16 | Carnegie Mellon University | Master's in Robotic Systems Development (MRSD) |
-| 28 | University of Illinois Urbana-Champaign | M.S. in Computer Science |
-| 29 | University of Illinois Urbana-Champaign | Master of Computer Science in Urbana-Champaign |
-| 30 | University of Illinois Urbana-Champaign | Master of Computer Science in Chicago |
-| 31 | University of California San Diego | M.S. in Computer Science and Engineering |
-| 32 | Georgia Institute of Technology | M.S. in Computer Science |
-| 35 | University of Michigan Ann Arbor | M.S.E. in Computer Science and Engineering |
-| 36 | University of Maryland College Park | M.S. in Computer Science |
-| 37 | Stanford University | M.S. in Computer Science |
-| 38 | University of California Berkeley | M.S. in Electrical Engineering and Computer Science |
-| 40 | Cornell University | M.S. in Computer Science |
-| 41 | Cornell University | M.Eng. in Computer Science |
-| 42 | Cornell University | M.Eng. in Computer Science |
-| 43 | Northeastern University | M.S. in Computer Science |
-| 44 | Northeastern University | M.S. in Artificial Intelligence |
-| 49 | Purdue University West Lafayette | M.S. in Computer Science |
-| 50 | New York University | M.S. in Computer Science |
-| 52 | University of Southern California | M.S. in Computer Science |
-| 53 | University of Southern California | M.S. in Computer Science-Artificial Intelligence |
-| 57 | University of Southern California | M.S. in Computer Engineering |
-| 58 | University of Pennsylvania | M.S.E. in Computer and Information Science |
-| 63 | University of California Los Angeles | M.S. in Computer Science |
-| 64 | University of California Los Angeles | Master of Engineering，选 Robotics 方向 |
-| 71 | Northwestern University | M.S. in Computer Science |
-| 72 | Columbia University | M.S. in Computer Science |
-| 79 | University of California Irvine | Master of Computer Science |
-| 86 | Duke University | M.S. in Computer Science |
-| 87 | Johns Hopkins University | M.S.E. in Computer Science |
-| 88 | Johns Hopkins University | AI Track - M.S.E. in Computer Science |
-| 90 | University of California Santa Barbara | M.S. in Computer Science |
-| 126 | Carnegie Mellon University | M.S. in Artificial Intelligence Engineering - ECE |
-| 134 | Columbia University | M.S. in Artificial Intelligence |
+## 课程介绍状态
 
-## 当前产物要求
+| 学校 | 文件 | 状态 |
+|---|---|---|
+| CMU | `CMU/卡内基梅隆-CMU-CS-AIE-Robotics-课程介绍.md` | 已覆盖 MS AIE-ECE |
+| CMU | `CMU/卡内基梅隆-CMU-MSIN-课程介绍.md` | 2026-07-13 新增，覆盖 MSIN |
+| UIUC | `UIUC/伊利诺伊香槟-UIUC-CS-MCS-课程介绍.md` | 已同时覆盖 Urbana 与 Chicago MCS |
+| Cornell | `Cornell/康奈尔-Cornell-CS-MS-MEng-课程介绍.md` | 已覆盖 Ithaca 与 Cornell Tech MEng |
+| Columbia | `Columbia/哥伦比亚-Columbia-CS-AI-MS-课程介绍.md` | 已覆盖 MS CS 与 MS AI |
+| UCLA | `UCLA/洛杉矶加大-UCLA-CS-MEng-课程介绍.md` | 已覆盖 MEng Robotics & Autonomous Systems |
 
-- 每个学校/项目需写 `课程介绍.md`，结构参考 ECE_CE 中 UPenn 文件。
-- 内容必须以项目主页、官方 catalog/bulletin、degree requirements、curriculum/course pages 为依据。
-- 课程介绍应包含完整课程计划/课程池/修读要求；不能只筛与你目标课程相关的几门课。
-- 最后生成 `机器人大脑与感知方向-选校推荐.md`，推荐依据使用课程中机器人大脑与感知方向课程数量与可行性。
+不在本清单内的 `CS_AIE` 学校目录已按新版筛选条件移除。
